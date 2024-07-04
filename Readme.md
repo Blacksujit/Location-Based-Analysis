@@ -59,11 +59,11 @@ restaurant-location-analysis/
 
 ## Some Restaurents recoomeded by ML model on maps:
 
-## 2nd map:
+## 1st map:
 
 ![alt text](Lucknow.png)
 
-## 1st map:
+## 2nd map:
 
 ![alt text](daltonmap.png)
 

@@ -1,0 +1,1350 @@
+Group_Type,City,Avg_Restaurant_Count,Total_Restaurant_Count,Locality_Count,Locality,City_Count
+City,Abu Dhabi,1.4285714285714286,20,14.0,,
+City,Agra,2.5,20,8.0,,
+City,Ahmedabad,1.6153846153846154,21,13.0,,
+City,Albany,10.0,20,2.0,,
+City,Allahabad,6.666666666666667,20,3.0,,
+City,Amritsar,3.5,21,6.0,,
+City,Ankara,1.3333333333333333,20,15.0,,
+City,Armidale,1.0,1,1.0,,
+City,Athens,20.0,20,1.0,,
+City,Auckland,1.3333333333333333,20,15.0,,
+City,Augusta,6.666666666666667,20,3.0,,
+City,Aurangabad,2.0,20,10.0,,
+City,Balingup,1.0,1,1.0,,
+City,Bandung,1.0,1,1.0,,
+City,Bangalore,1.818181818181818,20,11.0,,
+City,Beechworth,1.0,1,1.0,,
+City,Bhopal,2.5,20,8.0,,
+City,Bhubaneshwar,2.625,21,8.0,,
+City,Birmingham,1.25,20,16.0,,
+City,Bogor,1.0,2,2.0,,
+City,Boise,6.666666666666667,20,3.0,,
+City,Brasï¿½_lia,2.0,20,10.0,,
+City,Cape Town,1.6666666666666667,20,12.0,,
+City,Cedar Rapids/Iowa City,5.0,20,4.0,,
+City,Chandigarh,2.571428571428572,18,7.0,,
+City,Chatham-Kent,1.0,1,1.0,,
+City,Chennai,1.3333333333333333,20,15.0,,
+City,Clatskanie,1.0,1,1.0,,
+City,Cochrane,1.0,1,1.0,,
+City,Coimbatore,2.5,20,8.0,,
+City,Colombo,2.2222222222222223,20,9.0,,
+City,Columbus,10.0,20,2.0,,
+City,Consort,1.0,1,1.0,,
+City,Dalton,2.857142857142857,20,7.0,,
+City,Davenport,10.0,20,2.0,,
+City,Dehradun,2.0,20,10.0,,
+City,Des Moines,1.818181818181818,20,11.0,,
+City,Dicky Beach,1.0,1,1.0,,
+City,Doha,1.0526315789473684,20,19.0,,
+City,Dubai,1.1764705882352942,20,17.0,,
+City,Dubuque,20.0,20,1.0,,
+City,East Ballina,1.0,1,1.0,,
+City,Edinburgh,3.333333333333333,20,6.0,,
+City,Faridabad,6.275,251,40.0,,
+City,Fernley,1.0,1,1.0,,
+City,Flaxton,1.0,1,1.0,,
+City,Forrest,1.0,1,1.0,,
+City,Gainesville,3.333333333333333,20,6.0,,
+City,Ghaziabad,6.25,25,4.0,,
+City,Goa,1.6666666666666667,20,12.0,,
+City,Gurgaon,9.893805309734514,1118,113.0,,
+City,Guwahati,2.625,21,8.0,,
+City,Hepburn Springs,2.0,2,1.0,,
+City,Huskisson,1.0,1,1.0,,
+City,Hyderabad,2.0,18,9.0,,
+City,Indore,2.2222222222222223,20,9.0,,
+City,Inner City,1.0,2,2.0,,
+City,Inverloch,1.0,1,1.0,,
+City,Jaipur,1.818181818181818,20,11.0,,
+City,Jakarta,1.1428571428571428,16,14.0,,
+City,Johannesburg,1.5,6,4.0,,
+City,Kanpur,1.5384615384615383,20,13.0,,
+City,Kochi,1.818181818181818,20,11.0,,
+City,Kolkata,1.6666666666666667,20,12.0,,
+City,Lakes Entrance,1.0,1,1.0,,
+City,Lakeview,1.0,1,1.0,,
+City,Lincoln,1.0,1,1.0,,
+City,London,1.1111111111111112,20,18.0,,
+City,Lorn,1.0,1,1.0,,
+City,Lucknow,2.625,21,8.0,,
+City,Ludhiana,1.5384615384615383,20,13.0,,
+City,Macedon,1.0,1,1.0,,
+City,Macon,6.666666666666667,20,3.0,,
+City,Makati City,1.0,2,2.0,,
+City,Manchester,2.2222222222222223,20,9.0,,
+City,Mandaluyong City,2.0,4,2.0,,
+City,Mangalore,1.818181818181818,20,11.0,,
+City,Mayfield,1.0,1,1.0,,
+City,Mc Millan,1.0,1,1.0,,
+City,Middleton Beach,1.0,1,1.0,,
+City,Miller,1.0,1,1.0,,
+City,Mohali,1.0,1,1.0,,
+City,Monroe,1.0,1,1.0,,
+City,Montville,1.0,1,1.0,,
+City,Mumbai,1.4285714285714286,20,14.0,,
+City,Mysore,2.5,20,8.0,,
+City,Nagpur,2.0,20,10.0,,
+City,Nashik,2.857142857142857,20,7.0,,
+City,New Delhi,21.54724409448819,5473,254.0,,
+City,Noida,12.705882352941176,1080,85.0,,
+City,Ojo Caliente,1.0,1,1.0,,
+City,Orlando,2.0,20,10.0,,
+City,Palm Cove,1.0,1,1.0,,
+City,Panchkula,1.0,1,1.0,,
+City,Pasay City,1.5,3,2.0,,
+City,Pasig City,3.0,3,1.0,,
+City,Patna,2.2222222222222223,20,9.0,,
+City,Paynesville,1.0,1,1.0,,
+City,Penola,1.0,1,1.0,,
+City,Pensacola,5.0,20,4.0,,
+City,Phillip Island,1.0,1,1.0,,
+City,Pocatello,5.0,20,4.0,,
+City,Potrero,1.0,1,1.0,,
+City,Pretoria,1.5384615384615383,20,13.0,,
+City,Princeton,1.0,1,1.0,,
+City,Puducherry,2.857142857142857,20,7.0,,
+City,Pune,1.5384615384615383,20,13.0,,
+City,Quezon City,1.0,1,1.0,,
+City,Ranchi,2.0,20,10.0,,
+City,Randburg,1.0,1,1.0,,
+City,Rest of Hawaii,2.857142857142857,20,7.0,,
+City,Rio de Janeiro,1.4285714285714286,20,14.0,,
+City,San Juan City,1.0,2,2.0,,
+City,Sandton,1.2222222222222223,11,9.0,,
+City,Santa Rosa,1.0,2,2.0,,
+City,Savannah,10.0,20,2.0,,
+City,Secunderabad,1.0,2,2.0,,
+City,Sharjah,1.6666666666666667,20,12.0,,
+City,Singapore,1.1764705882352942,20,17.0,,
+City,Sioux City,6.666666666666667,20,3.0,,
+City,Surat,2.5,20,8.0,,
+City,Sï¿½ï¿½o Paulo,1.5384615384615383,20,13.0,,
+City,Tagaytay City,1.0,1,1.0,,
+City,Taguig City,1.3333333333333333,4,3.0,,
+City,Tampa Bay,1.818181818181818,20,11.0,,
+City,Tangerang,1.0,2,2.0,,
+City,Tanunda,1.0,1,1.0,,
+City,Trentham East,1.0,1,1.0,,
+City,Vadodara,3.333333333333333,20,6.0,,
+City,Valdosta,20.0,20,1.0,,
+City,Varanasi,2.0,20,10.0,,
+City,Vernonia,1.0,1,1.0,,
+City,Victor Harbor,1.0,1,1.0,,
+City,Vineland Station,1.0,1,1.0,,
+City,Vizag,1.3333333333333333,20,15.0,,
+City,Waterloo,10.0,20,2.0,,
+City,Weirton,1.0,1,1.0,,
+City,Wellington City,5.0,20,4.0,,
+City,Winchester Bay,1.0,1,1.0,,
+City,Yorkton,1.0,1,1.0,,
+City,ï¿½ï¿½stanbul,1.4,14,10.0,,
+Locality,,2.0,2,," ILD Trade Centre Mall, Sohna Road",1.0
+Locality,,1.0,1,,"12th Square Building, Banjara Hills",1.0
+Locality,,1.0,1,,"A Hotel, Gurdev Nagar",1.0
+Locality,,1.0,1,,"ARSS Mall, Paschim Vihar",1.0
+Locality,,1.0,1,,Aaya Nagar,1.0
+Locality,,2.0,2,,"Abu Dhabi Mall, Tourist Club Area  (Al Zahiyah)",1.0
+Locality,,3.0,3,,Abu Shagara,1.0
+Locality,,2.0,2,,"Acropolis Mall, Kasba ",1.0
+Locality,,3.0,3,,Adajan Gam,1.0
+Locality,,13.0,13,,Adchini,1.0
+Locality,,1.0,1,,Addition Hills,1.0
+Locality,,4.0,4,,"Aditya Mega Mall, Karkardooma",1.0
+Locality,,1.0,1,,Adyar,1.0
+Locality,,4.0,4,,Aerocity,1.0
+Locality,,1.0,1,,Aggar Nagar,1.0
+Locality,,3.0,3,,"Aggarwal City Mall, Pitampura",1.0
+Locality,,5.0,5,,"Aggarwal City Plaza, Rohini",1.0
+Locality,,3.0,3,,Agra Cantt,1.0
+Locality,,1.0,1,,Ain Khalid,1.0
+Locality,,1.0,1,,Akashwani,1.0
+Locality,,1.0,1,,Al Barari,1.0
+Locality,,2.0,2,,Al Dhafrah,1.0
+Locality,,1.0,1,,Al Doha Al Jadeeda,1.0
+Locality,,1.0,1,,"Al Emadi Financial Square, Al Hilal",1.0
+Locality,,1.0,1,,Al Ghanim,1.0
+Locality,,1.0,1,,Al Hilal,1.0
+Locality,,2.0,2,,Al Karama,1.0
+Locality,,1.0,1,,Al Khan,1.0
+Locality,,3.0,3,,Al Majaz,1.0
+Locality,,2.0,2,,Al Mareija,1.0
+Locality,,1.0,1,,Al Muntazah,1.0
+Locality,,1.0,1,,Al Mushrif,1.0
+Locality,,2.0,2,,Al Nahda,1.0
+Locality,,1.0,1,,Al Nasr,1.0
+Locality,,1.0,1,,Al Nud,1.0
+Locality,,1.0,1,,"Al Qasba, Al Khan",1.0
+Locality,,2.0,2,,"Al Wahda Mall, Al Wahda",1.0
+Locality,,32.0,32,,Alaknanda,1.0
+Locality,,1.0,1,,"Alam Sutera Town Center, Serpong Utara",1.0
+Locality,,19.0,19,,Albany,1.0
+Locality,,1.0,1,,"Albemarle Street, Mayfair",1.0
+Locality,,8.0,8,,Alkapuri,1.0
+Locality,,1.0,1,,Alum Rock,1.0
+Locality,,1.0,1,,Ambavadi,1.0
+Locality,,2.0,2,,"Ambience Mall, Gurgaon",1.0
+Locality,,12.0,12,,"Ambience Mall, Vasant Kunj",1.0
+Locality,,2.0,2,,Ames,1.0
+Locality,,1.0,1,,Aminabad,1.0
+Locality,,2.0,2,,Anand Lok,1.0
+Locality,,42.0,42,,Anand Vihar,1.0
+Locality,,3.0,3,,Anand Wali Goan,1.0
+Locality,,1.0,1,,Anandpuri,1.0
+Locality,,1.0,1,,"Andaz Delhi, Aerocity",1.0
+Locality,,2.0,2,,"Anil Plaza, Christian Basti",1.0
+Locality,,3.0,3,,Anjuna,1.0
+Locality,,1.0,1,,"Anjuna Beach, Anjuna",1.0
+Locality,,2.0,2,,Anna Nagar East,1.0
+Locality,,5.0,5,,"Ansal Plaza Mall, Greater Noida",1.0
+Locality,,8.0,8,,"Ansal Plaza Mall, Khel Gaon Marg",1.0
+Locality,,4.0,4,,"Ansal Plaza Mall, Palam Vihar",1.0
+Locality,,1.0,1,,Arambol,1.0
+Locality,,1.0,1,,"Archer Street, Soho",1.0
+Locality,,19.0,19,,Ardee City,1.0
+Locality,,5.0,5,,Arera Colony,1.0
+Locality,,1.0,1,,"Armada AVM, Sï¿½_ï¿½ï¿½ï¿½_tï¿½_zï¿½_, Yenimahalle",1.0
+Locality,,1.0,1,,Armidale,1.0
+Locality,,1.0,1,,Arya Nagar,1.0
+Locality,,4.0,4,,Asa Norte,1.0
+Locality,,6.0,6,,Asa Sul,1.0
+Locality,,3.0,3,,Asaf Ali Road,1.0
+Locality,,2.0,4,,Ashok Nagar,2.0
+Locality,,36.0,36,,Ashok Vihar Phase 1,1.0
+Locality,,14.0,14,,Ashok Vihar Phase 2,1.0
+Locality,,11.0,11,,Ashok Vihar Phase 3,1.0
+Locality,,1.0,1,,Ashram Road,1.0
+Locality,,1.0,1,,AsmalÛ±mescit,1.0
+Locality,,2.0,2,,Assi Ghat,1.0
+Locality,,20.0,20,,Athens,1.0
+Locality,,1.0,1,,Athlone,1.0
+Locality,,3.0,3,,Athwa,1.0
+Locality,,1.0,1,,Attavar,1.0
+Locality,,15.0,15,,Augusta,1.0
+Locality,,2.0,2,,Auroville,1.0
+Locality,,1.0,1,,Azad Nagar,1.0
+Locality,,1.0,1,,"BGC Stopover Pavillion, Bonifacio Global City",1.0
+Locality,,2.0,2,,"BMC Bhawani Mall, Sahid Nagar",1.0
+Locality,,1.0,1,,BRS Nagar,1.0
+Locality,,9.0,9,,Badarpur Border,1.0
+Locality,,1.0,1,,Badkal Lake,1.0
+Locality,,3.0,3,,Baga,1.0
+Locality,,5.0,5,,Bajaj Nagar,1.0
+Locality,,1.0,1,,"Balewadi High Street, Balewadi",1.0
+Locality,,2.0,2,,Balgat,1.0
+Locality,,1.0,1,,Balingup,1.0
+Locality,,4.0,4,,Ballygunge,1.0
+Locality,,7.0,7,,Balmatta,1.0
+Locality,,1.0,1,,Balmoral,1.0
+Locality,,2.0,2,,"Bambalapitiya, Colombo 04",1.0
+Locality,,2.0,2,,Baner,1.0
+Locality,,2.0,2,,Banjara Hills,1.0
+Locality,,16.0,16,,Barakhamba Road,1.0
+Locality,,1.0,1,,Barra da Tijuca,1.0
+Locality,,1.0,1,,Barsha 2,1.0
+Locality,,1.0,1,,"Barwa Towers, Al Sadd",1.0
+Locality,,15.0,15,,"Basant Lok Market, Vasant Vihar",1.0
+Locality,,2.0,2,,Basant Nagar,1.0
+Locality,,1.0,1,,"Bayfront Avenue, Downtown Core",1.0
+Locality,,1.0,1,,"Bayfront Subzone, Downtown Core",1.0
+Locality,,1.0,1,,"Beak Street, Soho",1.0
+Locality,,1.0,1,,Beaverdale,1.0
+Locality,,1.0,1,,Bebek,1.0
+Locality,,1.0,1,,Beechworth,1.0
+Locality,,2.0,2,,"Bela Vista, Centro",1.0
+Locality,,3.0,3,,"Bellagio, Ashok Vihar Phase 2",1.0
+Locality,,2.0,2,,"Best Western Skycity Hotel, Sector 15, Gurgaon",1.0
+Locality,,1.0,1,,"Best Western Taurus Hotel, Mahipalpur",1.0
+Locality,,1.0,1,,Betalbatim,1.0
+Locality,,5.0,5,,Bettendorf,1.0
+Locality,,1.0,1,,Beï¿½ï¿½iktaï¿½ï¿½ Merkez,1.0
+Locality,,1.0,1,,Bhavathi,1.0
+Locality,,2.0,2,,Bhawar Kuan,1.0
+Locality,,3.0,3,,Bhelupur,1.0
+Locality,,9.0,9,,Bhikaji Cama Place,1.0
+Locality,,1.0,1,,"Bishopsgate, City Of London",1.0
+Locality,,1.0,1,,Blackfoot,1.0
+Locality,,1.0,1,,"BluPetal Hotel, Koramangala",1.0
+Locality,,5.0,5,,Bodakdev,1.0
+Locality,,1.0,1,,Bogor Timur,1.0
+Locality,,1.0,1,,Bogor Utara,1.0
+Locality,,18.0,18,,Boise,1.0
+Locality,,2.0,2,,"Bon Vivant, College Road",1.0
+Locality,,1.0,1,,Bonaire,1.0
+Locality,,1.0,1,,Bonifacio Global City,1.0
+Locality,,1.0,1,,Borivali East,1.0
+Locality,,2.0,2,,Borivali West,1.0
+Locality,,1.0,1,,"Boundary Street, Shoreditch",1.0
+Locality,,4.0,4,,Brahmaputra Shopping Complex,1.0
+Locality,,1.0,1,,Braselton,1.0
+Locality,,1.0,1,,"Brasï¿½_lia Shopping, Asa Norte",1.0
+Locality,,1.0,1,,Brindleyplace,1.0
+Locality,,1.0,1,,"Brindleyplace, Broad Street",1.0
+Locality,,3.0,3,,Britomart,1.0
+Locality,,1.0,1,,"Broadwick Street, Soho",1.0
+Locality,,3.0,3,,Brooklyn,1.0
+Locality,,2.0,2,,Bryanston,1.0
+Locality,,1.0,1,,"Bryanston Shopping Centre, Bryanston",1.0
+Locality,,3.0,3,,"Bullring Shopping Centre, Southside",1.0
+Locality,,1.0,1,,C G Road,1.0
+Locality,,6.0,6,,C Scheme,1.0
+Locality,,3.0,3,,CBD,1.0
+Locality,,7.0,7,,CIDCO,1.0
+Locality,,1.0,1,,"CITY WALK, Al Safa",1.0
+Locality,,1.0,1,,"CMR Central Mall, Maddilapalem",1.0
+Locality,,1.0,1,,Caddebostan,1.0
+Locality,,1.0,1,,Calangute,1.0
+Locality,,1.0,1,,"Calangute Beach, Calangute",1.0
+Locality,,3.0,3,,Calhoun,1.0
+Locality,,1.0,1,,Camac Street Area,1.0
+Locality,,2.0,2,,Candolim,1.0
+Locality,,1.0,1,,"Cantonment Road, Outram",1.0
+Locality,,1.0,1,,"Caravan Complex, Al Hilal",1.0
+Locality,,1.0,1,,Cavelossim,1.0
+Locality,,1.0,1,,"Cavendish Square, Claremont",1.0
+Locality,,13.0,13,,Cedar Falls,1.0
+Locality,,8.0,8,,Cedar Rapids,1.0
+Locality,,1.0,1,,Cengkareng,1.0
+Locality,,1.0,1,,"Centaur Hotel, Aerocity",1.0
+Locality,,1.0,1,,"Central Arcade, DLF Phase 2, Gurgaon",1.0
+Locality,,10.0,10,,"Central Plaza Mall, Golf Course Road",1.0
+Locality,,4.0,4,,"Centre Stage Mall, Sector 18",1.0
+Locality,,1.0,1,,Centro,1.0
+Locality,,1.0,1,,"Century City Mall, Poblacion, Makati City",1.0
+Locality,,3.0,3,,Chamrajpura,1.0
+Locality,,32.0,32,,Chanakyapuri,1.0
+Locality,,7.0,7,,Chander Nagar,1.0
+Locality,,1.0,1,,Chandigarh Industrial Area,1.0
+Locality,,2.0,2,,Chandmari,1.0
+Locality,,67.0,67,,Chandni Chowk,1.0
+Locality,,4.0,4,,Chandrasekharpur,1.0
+Locality,,1.0,1,,"Charlotte Street, Fitzrovia",1.0
+Locality,,6.0,6,,Charmwood Village,1.0
+Locality,,1.0,1,,Chatham-Kent,1.0
+Locality,,1.0,1,,Chatsworth,1.0
+Locality,,12.0,12,,Chawri Bazar,1.0
+Locality,,2.0,2,,Cheetham Hill,1.0
+Locality,,1.0,1,,Chelsea,1.0
+Locality,,1.0,1,,Chhatarpur,1.0
+Locality,,1.0,1,,Chicalthana,1.0
+Locality,,1.0,1,,"Chinatown, Outram",1.0
+Locality,,46.0,46,,Chittaranjan Park,1.0
+Locality,,1.0,1,,Chittoor Road,1.0
+Locality,,1.0,1,,"Chokhi Dhani Village Resort, Tonk Road",1.0
+Locality,,4.0,4,,Christian Basti,1.0
+Locality,,1.0,1,,Chubbuck,1.0
+Locality,,2.0,2,,Chukkuwala,1.0
+Locality,,1.0,1,,Church Street District,1.0
+Locality,,4.0,4,,"Cinnamon Gardens, Colombo 07",1.0
+Locality,,1.0,1,,"City Center, Parijat Nagar",1.0
+Locality,,2.0,2,,City Centre,1.0
+Locality,,1.0,1,,"City Centre Mall, Rohini",1.0
+Locality,,1.0,1,,"City Hall, Downtown Core",1.0
+Locality,,3.0,3,,City Light,1.0
+Locality,,3.0,3,,"City Square Mall, Rajouri Garden",1.0
+Locality,,1.0,1,,City and Suburban,1.0
+Locality,,7.0,42,,Civil Lines,6.0
+Locality,,1.0,1,,Claremont,1.0
+Locality,,1.0,1,,Clarkesville,1.0
+Locality,,1.0,1,,Clatskanie,1.0
+Locality,,1.0,1,,Clearwater,1.0
+Locality,,2.0,2,,Clive,1.0
+Locality,,1.0,1,,Cochrane,1.0
+Locality,,8.0,8,,College Road,1.0
+Locality,,1.0,1,,Colmore Business District,1.0
+Locality,,19.0,19,,Columbus,1.0
+Locality,,18.0,18,,"Community Centre, New Friends Colony",1.0
+Locality,,1.0,1,,"Conduit Street, Mayfair",1.0
+Locality,,122.0,122,,Connaught Place,1.0
+Locality,,2.0,2,,Consolaï¿½_ï¿½ï¿½o,1.0
+Locality,,1.0,1,,Consort,1.0
+Locality,,3.0,3,,Copacabana,1.0
+Locality,,2.0,2,,Coralville,1.0
+Locality,,1.0,1,,"Country Inn & Suites By Carlson, Udyog Vihar",1.0
+Locality,,1.0,1,,"Country Inn & Suites by Carlson, Gurgaon",1.0
+Locality,,2.0,2,,"Country Inn & Suites by Carlson, Sector 12",1.0
+Locality,,1.0,1,,"Country Inn & Suites, Sohna Road",1.0
+Locality,,1.0,1,,"Courtyard By Marriott, Satellite",1.0
+Locality,,1.0,1,,"Courtyard by Marriott Agra, Tajganj",1.0
+Locality,,2.0,2,,"Courtyard by Marriott, Sushant Lok",1.0
+Locality,,1.0,1,,Covent Garden,1.0
+Locality,,4.0,4,,"Crescent Square Mall, Rohini",1.0
+Locality,,8.0,8,,"Cross Point Mall, DLF Phase 4",1.0
+Locality,,5.0,5,,"Cross River Mall, Karkardooma",1.0
+Locality,,12.0,12,,"Crown Interiorz Mall, Sector 35, Faridabad",1.0
+Locality,,4.0,4,,"Crown Plaza Mall, Sector 15, Faridabad",1.0
+Locality,,1.0,1,,"Crowne Plaza Abu Dhabi, Al Markaziya",1.0
+Locality,,2.0,2,,"Crowne Plaza Hotel, Rohini",1.0
+Locality,,2.0,2,,"Crowne Plaza, Mayur Vihar Phase 1",1.0
+Locality,,2.0,2,,"Crowne Plaza, Sector 29",1.0
+Locality,,1.0,1,,"Cyber Greens, DLF Cyber City",1.0
+Locality,,41.0,41,,"Cyber Hub, DLF Cyber City",1.0
+Locality,,5.0,5,,"D Mall, Netaji Subhash Place",1.0
+Locality,,1.0,1,,"D'arblay Street, Soho",1.0
+Locality,,3.0,3,,"DB City, Maharana Pratap Nagar",1.0
+Locality,,2.0,2,,"DDA Market, Kalu Sarai, Hauz Khas",1.0
+Locality,,1.0,1,,DIFC,1.0
+Locality,,5.0,5,,"DLF City Centre Mall, Shalimar Bagh",1.0
+Locality,,5.0,5,,DLF Cyber City,1.0
+Locality,,2.0,2,,"DLF Emporio Mall, Vasant Kunj",1.0
+Locality,,17.0,17,,"DLF Galleria, DLF Phase 4",1.0
+Locality,,31.0,31,,"DLF Mall of India, Sector 18,  Noida",1.0
+Locality,,15.0,15,,"DLF Mega Mall, DLF Phase 1",1.0
+Locality,,27.0,27,,DLF Phase 1,1.0
+Locality,,10.0,10,,DLF Phase 2,1.0
+Locality,,69.0,69,,DLF Phase 3,1.0
+Locality,,21.0,21,,DLF Phase 4,1.0
+Locality,,4.0,4,,DLF Phase 5,1.0
+Locality,,12.0,12,,"DLF Place Mall, Saket",1.0
+Locality,,13.0,13,,"DLF Promenade Mall, Vasant Kunj",1.0
+Locality,,15.0,15,,"DLF South Point Mall, Golf Course Road",1.0
+Locality,,7.0,7,,"DLF South Square, Sarojini Nagar",1.0
+Locality,,2.0,2,,"DLF Star Mall, Sector 30",1.0
+Locality,,7.0,7,,"DT City Centre Mall, MG Road",1.0
+Locality,,5.0,5,,"DT Mega Mall, DLF Phase 1",1.0
+Locality,,1.0,1,,Dago,1.0
+Locality,,5.0,5,,Dahlonega,1.0
+Locality,,1.0,1,,"Dalma Mall, Mussafah Sanaiya",1.0
+Locality,,8.0,8,,Dalton,1.0
+Locality,,43.0,43,,Daryaganj,1.0
+Locality,,3.0,3,,Dashaswmedh Road,1.0
+Locality,,15.0,15,,Davenport,1.0
+Locality,,1.0,1,,Dayal Bagh,1.0
+Locality,,1.0,1,,De Waterkant,1.0
+Locality,,2.0,2,,Deansgate,1.0
+Locality,,1.0,1,,Deccan Gymkhana,1.0
+Locality,,86.0,86,,Defence Colony,1.0
+Locality,,1.0,1,,"Dehiwala, Colombo",1.0
+Locality,,1.0,1,,Deira City Centre Area,1.0
+Locality,,4.0,4,,Delhi Cantt.,1.0
+Locality,,65.0,65,,Delhi University-GTB Nagar,1.0
+Locality,,1.0,1,,"Devraj Niwas, Bani Park",1.0
+Locality,,1.0,1,,Dhantoli,1.0
+Locality,,3.0,3,,Dharampeth,1.0
+Locality,,1.0,1,,Dicky Beach,1.0
+Locality,,1.0,1,,Digbeth,1.0
+Locality,,1.0,1,,Dikmen,1.0
+Locality,,20.0,20,,"Dilli Haat, INA",1.0
+Locality,,57.0,57,,Dilshad Garden,1.0
+Locality,,1.0,1,,Disney World Area,1.0
+Locality,,2.0,2,,Disney: Downtown Disney,1.0
+Locality,,1.0,1,,Dispur,1.0
+Locality,,6.0,6,,"District Centre, Janakpuri",1.0
+Locality,,1.0,1,,Diwalipura,1.0
+Locality,,1.0,1,,Doora,1.0
+Locality,,2.0,2,,"DoubleTree by Hilton, Sector 56",1.0
+Locality,,6.0,6,,Downtown,1.0
+Locality,,4.0,4,,Downtown St Petersburg,1.0
+Locality,,1.0,1,,Dr. Zakir Hussain Marg,1.0
+Locality,,1.0,1,,Dubai Media City,1.0
+Locality,,20.0,20,,Dubuque,1.0
+Locality,,1.0,1,,Durga Puri,1.0
+Locality,,1.0,1,,"Duxton Hill, Outram",1.0
+Locality,,2.0,2,,Dwaraka Nagar,1.0
+Locality,,1.0,1,,East Ballina,1.0
+Locality,,50.0,50,,East Patel Nagar,1.0
+Locality,,2.0,2,,East Village,1.0
+Locality,,56.0,56,,East of Kailash,1.0
+Locality,,2.0,2,,Edappally,1.0
+Locality,,1.0,1,,Edgbaston,1.0
+Locality,,1.0,1,,"Edsa Shangri-La, Ortigas, Mandaluyong City",1.0
+Locality,,5.0,5,,"Elante Mall, Chandigarh Industrial Area",1.0
+Locality,,2.0,2,,"Eldeco Station 1 Mall, Sector 12, Faridabad",1.0
+Locality,,1.0,1,,Elgin,1.0
+Locality,,2.0,2,,Ellis Bridge,1.0
+Locality,,1.0,1,,Emek,1.0
+Locality,,1.0,1,,Emirgï¿½ï¿½n,1.0
+Locality,,21.0,21,,"Epicuria Food Mall, Nehru Place",1.0
+Locality,,5.0,5,,"Eros Hotel, Nehru Place",1.0
+Locality,,3.0,3,,Essex Farms,1.0
+Locality,,4.0,4,,Evans,1.0
+Locality,,1.0,1,,"Express Avenue Mall,  Royapettah",1.0
+Locality,,2.0,2,,Faerie Glen,1.0
+Locality,,1.0,1,,Fairground,1.0
+Locality,,1.0,1,,Fatmawati,1.0
+Locality,,2.0,2,,Federal Street,1.0
+Locality,,1.0,1,,Fereej Bin Mahmoud,1.0
+Locality,,1.0,1,,Fernley,1.0
+Locality,,2.0,2,,Feroze Shah Road,1.0
+Locality,,1.0,1,,Festival City,1.0
+Locality,,1.0,1,,Flaxton,1.0
+Locality,,3.0,3,,Flowery Branch,1.0
+Locality,,1.0,1,,Forrest,1.0
+Locality,,1.0,1,,Fort,1.0
+Locality,,1.0,1,,Fort Kochi,1.0
+Locality,,3.0,3,,Fort Oglethorpe,1.0
+Locality,,1.0,1,,Fort Street,1.0
+Locality,,1.0,1,,"Fort, Colombo 01",1.0
+Locality,,2.0,2,,"Fortune Inn Grazia, Sector 27, Noida",1.0
+Locality,,2.0,2,,"Fortune Select Excalibur, Sohna Road",1.0
+Locality,,1.0,1,,"Fortune Select Global, MG Road",1.0
+Locality,,1.0,1,,Fountainbridge,1.0
+Locality,,4.0,4,,Fraser Road Area,1.0
+Locality,,2.0,2,,Friends Colony,1.0
+Locality,,3.0,3,,"Fun City Mall, Prashant Vihar",1.0
+Locality,,38.0,38,,GTB Nagar,1.0
+Locality,,1.0,1,,Gachibowli,1.0
+Locality,,6.0,6,,Gainesville,1.0
+Locality,,1.0,1,,Gajapati Nagar,1.0
+Locality,,1.0,1,,"Galeria River, Copacabana",1.0
+Locality,,1.0,1,,"Gandaria City Mall, Gandaria",1.0
+Locality,,1.0,1,,Gandhi Nagar,1.0
+Locality,,1.0,1,,Gandhipuram,1.0
+Locality,,8.0,8,,"Ganga Shopping Complex, Sector 29",1.0
+Locality,,1.0,1,,"Garden of Five Senses, Saket",1.0
+Locality,,2.0,2,,Gardens,1.0
+Locality,,14.0,14,,"Gardens Galleria, Sector 38 Noida",1.0
+Locality,,1.0,1,,Garsfontein,1.0
+Locality,,3.0,3,,Gazi Osman Paï¿½ï¿½a,1.0
+Locality,,34.0,34,,Geeta Colony,1.0
+Locality,,1.0,1,,"Ghanem Business Center, Fereej Bin Mahmoud",1.0
+Locality,,1.0,1,,Ghatlodia,1.0
+Locality,,2.0,2,,"Ginger Hotel, Vivek Vihar",1.0
+Locality,,1.0,1,,"Glenfair Boulevard, Lynnwood  ",1.0
+Locality,,7.0,7,,"Global Foyer Mall, Golf Course Road",1.0
+Locality,,1.0,1,,Godaulia,1.0
+Locality,,3.0,3,,Gokulam,1.0
+Locality,,4.0,4,,Golambar,1.0
+Locality,,1.0,1,,"Golden Square, City Light",1.0
+Locality,,1.0,1,,"Goldfinch Hotel, Balmatta",1.0
+Locality,,1.0,1,,Golf Course,1.0
+Locality,,27.0,27,,Golf Course Road,1.0
+Locality,,1.0,1,,Golpark,1.0
+Locality,,12.0,12,,Gomti Nagar,1.0
+Locality,,1.0,1,,Gopalapuram,1.0
+Locality,,1.0,1,,"Gourmet Hub, Pashim Vihar",1.0
+Locality,,1.0,1,,"Grand Hotel, MG Road",1.0
+Locality,,2.0,2,,"Grand Indonesia Mall, Thamrin",1.0
+Locality,,66.0,66,,Greater Kailash (GK) 1,1.0
+Locality,,66.0,66,,Greater Kailash (GK) 2,1.0
+Locality,,5.0,5,,Greater Kailash (GK) 3,1.0
+Locality,,38.0,38,,Greater Noida,1.0
+Locality,,1.0,1,,Greater South Side,1.0
+Locality,,46.0,46,,Green Park,1.0
+Locality,,3.0,3,,Green Point,1.0
+Locality,,1.0,1,,"Greenlyn Village, Menlopark, Near Lynnwood",1.0
+Locality,,1.0,1,,Greenside,1.0
+Locality,,1.0,1,,Grovetown,1.0
+Locality,,39.0,39,,Gujranwala Town,1.0
+Locality,,1.0,1,,Gulmohar Colony,1.0
+Locality,,3.0,3,,Gurdev Nagar,1.0
+Locality,,2.0,2,,Gurukul,1.0
+Locality,,1.0,1,,Gï¿½ï¿½vea,1.0
+Locality,,1.0,1,,HIG-LIG,1.0
+Locality,,1.0,1,,"Haji Lane, Rochor",1.0
+Locality,,1.0,1,,Halwan Suburb,1.0
+Locality,,1.0,1,,Hamilton,1.0
+Locality,,1.0,1,,Hampankatta,1.0
+Locality,,1.0,1,,Handsworth,1.0
+Locality,,1.0,1,,Harborne,1.0
+Locality,,2.0,2,,Harmu,1.0
+Locality,,3.0,3,,"Harsha Mall, Greater Noida",1.0
+Locality,,1.0,1,,Hathi Gate,1.0
+Locality,,3.0,3,,Hathibarkala Salwala,1.0
+Locality,,74.0,74,,Hauz Khas,1.0
+Locality,,24.0,24,,Hauz Khas Village,1.0
+Locality,,2.0,2,,"Havelock Town, Colombo 05",1.0
+Locality,,1.0,1,,Haymarket,1.0
+Locality,,3.0,3,,Hazratganj,1.0
+Locality,,4.0,4,,Helen,1.0
+Locality,,1.0,1,,Henderson,1.0
+Locality,,2.0,2,,Hepburn Springs,1.0
+Locality,,1.0,1,,Heritage Town,1.0
+Locality,,1.0,1,,"Hill Road, Bandra West",1.0
+Locality,,1.0,1,,"Hillcrest, Bukit Timah",1.0
+Locality,,3.0,3,,Hindpiri,1.0
+Locality,,2.0,2,,Hitech City,1.0
+Locality,,1.0,1,,Holiday Inn Express & Suites,1.0
+Locality,,2.0,2,,"Holiday Inn Jaipur City Centre, Bais Godam",1.0
+Locality,,1.0,1,,"Holiday Inn, Aerocity",1.0
+Locality,,2.0,2,,"Holiday Inn, Mayur Vihar",1.0
+Locality,,3.0,3,,"Hong Kong Bazaar Mall, Sector 57, Gurgaon",1.0
+Locality,,2.0,2,,"Hotel Broadway, Daryaganj",1.0
+Locality,,1.0,1,,"Hotel Capitol Hill, Hindpiri",1.0
+Locality,,2.0,2,,"Hotel City Park, Pitampura",1.0
+Locality,,2.0,2,,"Hotel Clark Inn, Sector 15",1.0
+Locality,,1.0,1,,"Hotel Clarks Amer, Malviya Nagar",1.0
+Locality,,2.0,2,,"Hotel Classic Diplomat, Mahipalpur",1.0
+Locality,,1.0,1,,"Hotel De Pondicherry, White Town",1.0
+Locality,,1.0,1,,"Hotel Express Towers, Alkapuri",1.0
+Locality,,3.0,3,,"Hotel Golf View, Sector 37, Noida",1.0
+Locality,,1.0,1,,"Hotel Green Olive, Nirala Bazar",1.0
+Locality,,1.0,1,,"Hotel GreenPark, Vizag",1.0
+Locality,,2.0,2,,"Hotel Grenville, MG Road",1.0
+Locality,,2.0,2,,"Hotel Haute.Monde, Sector 15",1.0
+Locality,,1.0,1,,"Hotel Intercontinental Doha, Westbay",1.0
+Locality,,1.0,1,,"Hotel Maurya, Lodipur",1.0
+Locality,,1.0,1,,"Hotel Novotel, Maharani Peta",1.0
+Locality,,2.0,2,,"Hotel Regent Grand, Karol Bagh",1.0
+Locality,,1.0,1,,Hotel Royal Cliff,1.0
+Locality,,3.0,3,,"Hotel Saffron Kiran, Faridabad",1.0
+Locality,,1.0,1,,"Hotel Shangri-La, Sudirman",1.0
+Locality,,6.0,6,,"Hotel The Royal Plaza, Janpath",1.0
+Locality,,1.0,1,,"Hotel Unique, Jardim Paulista",1.0
+Locality,,7.0,7,,"Huda City Centre Metro Station, Sector 29, Gurgaon",1.0
+Locality,,1.0,1,,Huskisson,1.0
+Locality,,2.0,2,,Hyatt Place Gurgaon,1.0
+Locality,,6.0,6,,"Hyatt Regency, Bhikaji Cama Place",1.0
+Locality,,1.0,1,,"Hyatt Regency, Rajguru Nagar",1.0
+Locality,,5.0,5,,Hyde Park,1.0
+Locality,,4.0,4,,I-Drive/Universal,1.0
+Locality,,1.0,1,,"IBIS Hotel, Golf Course Road",1.0
+Locality,,1.0,1,,IIT Kanpur,1.0
+Locality,,4.0,4,,INA,1.0
+Locality,,3.0,3,,INA Colony,1.0
+Locality,,47.0,47,,IP Extension,1.0
+Locality,,6.0,6,,"ITC Maurya, Chanakyapuri",1.0
+Locality,,2.0,2,,"ITC Mughal, Tajganj",1.0
+Locality,,4.0,4,,ITO,1.0
+Locality,,1.0,1,,Illovo,1.0
+Locality,,6.0,6,,India Gate,1.0
+Locality,,1.0,1,,Indian Rocks/Indian Shores,1.0
+Locality,,6.0,6,,Indiranagar,1.0
+Locality,,5.0,5,,Indirapuram,1.0
+Locality,,1.0,1,,Indraprastha Colony,1.0
+Locality,,1.0,1,,"Infiniti Hotel, Vijay Nagar",1.0
+Locality,,1.0,1,,"International Business Center, Piplod",1.0
+Locality,,1.0,1,,Inverloch,1.0
+Locality,,9.0,9,,Iowa City,1.0
+Locality,,3.0,3,,Ipanema,1.0
+Locality,,3.0,3,,Itaim Bibi,1.0
+Locality,,1.0,1,,Ittige Gudu,1.0
+Locality,,5.0,5,,"JMD Kohinoor Mall, Greater Kailash",1.0
+Locality,,1.0,1,,"JMD Megapolis Mall, Sohna Road",1.0
+Locality,,2.0,2,,"JMD Regent Arcade Mall, MG Road",1.0
+Locality,,10.0,10,,JNU,1.0
+Locality,,1.0,1,,JP Nagar,1.0
+Locality,,1.0,1,,JW Marriott New Delhi,1.0
+Locality,,1.0,1,,Jagadamba Junction,1.0
+Locality,,61.0,61,,Jail Road,1.0
+Locality,,13.0,13,,"Jaipuria Plaza, Sector 26, Noida",1.0
+Locality,,3.0,3,,Jakhan,1.0
+Locality,,26.0,26,,Jama Masjid,1.0
+Locality,,46.0,46,,Janakpuri,1.0
+Locality,,57.0,57,,Jangpura,1.0
+Locality,,39.0,39,,Janpath,1.0
+Locality,,3.0,3,,Jardim Paulista,1.0
+Locality,,21.0,21,,Jasola,1.0
+Locality,,3.0,3,,Jayalakhsmipuram,1.0
+Locality,,4.0,4,,"Jaypee Greens Golf & Spa Resort, Surajpur",1.0
+Locality,,2.0,2,,"Jaypee Greens, Greater Noida, Noida",1.0
+Locality,,2.0,2,,"Jaypee Siddharth, Rajendra Place",1.0
+Locality,,5.0,5,,"Jaypee Vasant Continental, Vasant Vihar",1.0
+Locality,,1.0,1,,Jewellery Quarter,1.0
+Locality,,1.0,1,,Johnston,1.0
+Locality,,1.0,1,,Jor Bagh,1.0
+Locality,,7.0,7,,Jubilee Hills,1.0
+Locality,,1.0,1,,Juhu,1.0
+Locality,,1.0,1,,"Jukaso It Suites, Sector 14",1.0
+Locality,,1.0,1,,Jumeirah 1,1.0
+Locality,,1.0,1,,K Hotel,1.0
+Locality,,1.0,1,,KS Rao Nagar,1.0
+Locality,,3.0,3,,Kacheripady,1.0
+Locality,,3.0,3,,Kadri,1.0
+Locality,,1.0,1,,Kadru,1.0
+Locality,,1.0,1,,KadÛ±kï¿½_y Merkez,1.0
+Locality,,1.0,1,,Kahuku,1.0
+Locality,,22.0,22,,Kailash Colony,1.0
+Locality,,1.0,1,,Kailua Kona,1.0
+Locality,,1.0,1,,Kaimuki,1.0
+Locality,,3.0,3,,Kakkanad,1.0
+Locality,,73.0,73,,Kalkaji,1.0
+Locality,,2.0,2,,Kaloor,1.0
+Locality,,3.0,3,,Kalyani Nagar,1.0
+Locality,,65.0,65,,Kamla Nagar,1.0
+Locality,,3.0,3,,Kanka,1.0
+Locality,,1.0,1,,Kankanady,1.0
+Locality,,2.0,2,,Kapashera,1.0
+Locality,,3.0,3,,Kapitolyo,1.0
+Locality,,4.0,4,,Karakï¿½_y,1.0
+Locality,,3.0,3,,Karampura,1.0
+Locality,,2.0,2,,Karanpur,1.0
+Locality,,23.0,23,,Karkardooma,1.0
+Locality,,1.0,1,,Karkhana,1.0
+Locality,,76.0,76,,Karol Bagh,1.0
+Locality,,1.0,1,,"Kasbah, Greater Kailash (GK) 1",1.0
+Locality,,1.0,1,,Kashmiri Gate,1.0
+Locality,,1.0,1,,Kaushambi,1.0
+Locality,,1.0,1,,KavaklÛ±dere,1.0
+Locality,,1.0,1,,"Kay Siang Road, Tanglin",1.0
+Locality,,1.0,1,,Kelapa Gading,1.0
+Locality,,1.0,1,,"Kentpark AVM, ï¿½ï¿½niversiteler, ï¿½ankaya",1.0
+Locality,,1.0,1,,Kenwood,1.0
+Locality,,2.0,2,,Khajpura,1.0
+Locality,,44.0,44,,Khan Market,1.0
+Locality,,1.0,1,,Khandari,1.0
+Locality,,1.0,1,,Kidderpore,1.0
+Locality,,4.0,4,,Kihei,1.0
+Locality,,1.0,1,,Kilpauk,1.0
+Locality,,2.0,2,,"Kingdom of Dreams, Sector 29",1.0
+Locality,,1.0,1,,Kingman Place Historic District,1.0
+Locality,,2.0,2,,Kirlampudi Layout,1.0
+Locality,,56.0,56,,Kirti Nagar,1.0
+Locality,,1.0,1,,"Kite Beach, Umm Suqeim",1.0
+Locality,,1.0,1,,Kodailbail,1.0
+Locality,,1.0,1,,Kohefiza,1.0
+Locality,,7.0,7,,"Kollupitiya, Colombo 03",1.0
+Locality,,1.0,1,,Kondapur,1.0
+Locality,,3.0,3,,Koramangala 5th Block,1.0
+Locality,,1.0,1,,Koramangala 6th Block,1.0
+Locality,,1.0,1,,Koramangala 7th Block,1.0
+Locality,,4.0,4,,Koregaon Park,1.0
+Locality,,1.0,1,,"Kota Kasablanka, Tebet",1.0
+Locality,,1.0,1,,Kotturpuram,1.0
+Locality,,1.0,1,,Koï¿½ï¿½uyolu,1.0
+Locality,,38.5,77,,Krishna Nagar,2.0
+Locality,,2.0,2,,Kuruï¿½_eï¿½ï¿½me,1.0
+Locality,,1.0,1,,Kuvempunagar,1.0
+Locality,,2.0,2,,KÛ±zÛ±lay,1.0
+Locality,,2.0,2,,Kï¿½_ï¿½_ï¿½_k Esat,1.0
+Locality,,1.0,1,,LaFayette,1.0
+Locality,,9.0,9,,Lado Sarai,1.0
+Locality,,1.0,1,,Lago Sul,1.0
+Locality,,1.0,1,,Lagoa,1.0
+Locality,,5.0,5,,Lahaina,1.0
+Locality,,42.0,42,,Lajpat Nagar 1,1.0
+Locality,,22.0,22,,Lajpat Nagar 2,1.0
+Locality,,2.0,2,,Lajpat Nagar 4,1.0
+Locality,,1.0,1,,Lakes Entrance,1.0
+Locality,,1.0,1,,Lakeview,1.0
+Locality,,2.0,2,,Lal Kothi,1.0
+Locality,,1.5,3,,Lalbagh,2.0
+Locality,,6.0,6,,Lalpur,1.0
+Locality,,3.0,3,,Lanka,1.0
+Locality,,2.0,2,,Lava Hot Springs,1.0
+Locality,,2.0,2,,"Lavender, Kallang",1.0
+Locality,,1.0,1,,Law College Road,1.0
+Locality,,15.0,15,,Lawrence Road,1.0
+Locality,,2.0,2,,Lawsons Bay,1.0
+Locality,,58.0,58,,Laxmi Nagar,1.0
+Locality,,1.0,1,,Le Mars,1.0
+Locality,,3.0,3,,"Le Meridien Gurgaon, MG Road",1.0
+Locality,,6.0,6,,"Le Meridien, Janpath",1.0
+Locality,,1.0,1,,"Le Monde, Barra da Tijuca",1.0
+Locality,,2.0,2,,Leblon,1.0
+Locality,,3.0,3,,"Leisure Inn, Sector 14, Gurgaon",1.0
+Locality,,4.0,4,,Leith,1.0
+Locality,,2.0,2,,Leme,1.0
+Locality,,1.0,1,,"Lemon Tree Premier, Aerocity",1.0
+Locality,,1.0,1,,"Lemon Tree Premier, Sector 29",1.0
+Locality,,1.0,1,,Levenshulme,1.0
+Locality,,1.0,1,,"Lexington Street, Soho",1.0
+Locality,,1.0,1,,Linden,1.0
+Locality,,1.0,1,,"Linking Road, Bandra West",1.0
+Locality,,1.0,1,,Little Baguio,1.0
+Locality,,1.0,1,,"Little Tokyo, Legaspi Village, Makati City",1.0
+Locality,,13.0,13,,"Living Style Mall, Jasola",1.0
+Locality,,31.0,31,,Lodhi Colony,1.0
+Locality,,19.0,19,,Lodhi Road,1.0
+Locality,,3.0,3,,Lodipur,1.0
+Locality,,30.0,30,,"Logix City Centre, Sector 32, Noida",1.0
+Locality,,2.0,2,,"Logix Cyber Park, Sector 62, Noida",1.0
+Locality,,1.0,1,,"Long Acre, Covent Garden",1.0
+Locality,,1.0,1,,Lorn,1.0
+Locality,,1.0,1,,Lorne Street,1.0
+Locality,,3.0,3,,Lower Parel,1.0
+Locality,,2.0,2,,"LuLu Mall, Edappally",1.0
+Locality,,1.0,1,,Lyall Bay,1.0
+Locality,,1.0,1,,Lynnwood,1.0
+Locality,,1.0,1,,"M Cube Mall, Vadiwadi",1.0
+Locality,,21.0,63,,MG Road,3.0
+Locality,,4.0,4,,"MGF Mega City Mall, MG Road",1.0
+Locality,,6.0,6,,"MGF Metropolis Mall, MG Road",1.0
+Locality,,24.0,24,,"MGF Metropolitan Mall, MG Road",1.0
+Locality,,5.0,5,,"MGF Metropolitan Mall, Saket",1.0
+Locality,,6.0,6,,"MGM Club, Daryaganj",1.0
+Locality,,7.0,7,,"MSX Mall, Greater Noida",1.0
+Locality,,1.0,1,,MVP Colony,1.0
+Locality,,1.0,1,,Macedon,1.0
+Locality,,10.0,10,,Macon,1.0
+Locality,,1.0,1,,Macunkï¿½_y,1.0
+Locality,,1.0,1,,Maddilapalem,1.0
+Locality,,1.0,1,,Madeira Beach/Redington Beach,1.0
+Locality,,2.0,2,,Madhapur,1.0
+Locality,,1.0,1,,Madinat Zayed,1.0
+Locality,,1.0,1,,"Madinat Zayed Shopping Centre, Madinat Zayed ",1.0
+Locality,,1.0,1,,Madureira,1.0
+Locality,,5.0,5,,Maharana Pratap Nagar,1.0
+Locality,,2.0,2,,Maharani Peta,1.0
+Locality,,69.0,69,,Mahipalpur,1.0
+Locality,,3.0,3,,"Maidens Hotel, Civil Lines",1.0
+Locality,,5.0,5,,"Main Market, Sarabha Nagar",1.0
+Locality,,1.0,1,,"Majaz Waterfront, Al Majaz 3",1.0
+Locality,,1.0,1,,"Majiwada, Thane West",1.0
+Locality,,25.0,25,,Majnu ka Tila,1.0
+Locality,,3.0,3,,Malad West,1.0
+Locality,,4.0,4,,Mall Road,1.0
+Locality,,1.0,1,,"Mall of Qatar, Al Gharafa",1.0
+Locality,,1.0,1,,"Mall of the Emirates, Barsha 1",1.0
+Locality,,1.0,1,,Malsi,1.0
+Locality,,1.0,1,,Maltepe,1.0
+Locality,,42.5,85,,Malviya Nagar,2.0
+Locality,,4.0,4,,Mandi House,1.0
+Locality,,1.0,1,,"Mani Square Mall, Kankurgachi",1.0
+Locality,,1.0,1,,Mankhool,1.0
+Locality,,1.0,1,,Mansingh Road,1.0
+Locality,,2.0,2,,Marathahalli,1.0
+Locality,,3.0,3,,"Marina Centre, Downtown Core",1.0
+Locality,,1.0,1,,Marion,1.0
+Locality,,2.0,2,,Market Street,1.0
+Locality,,1.0,1,,Marshalltown,1.0
+Locality,,2.0,2,,Mathura Road,1.0
+Locality,,1.0,1,,"Maurya Lok, Fraser Road Area",1.0
+Locality,,15.0,15,,Mayapuri Phase 2,1.0
+Locality,,2.0,2,,Mayfair,1.0
+Locality,,1.0,1,,"Mayfair Lagoon, Jayadev Vihar",1.0
+Locality,,1.0,1,,Mayfield,1.0
+Locality,,84.0,84,,Mayur Vihar Phase 1,1.0
+Locality,,29.0,29,,Mayur Vihar Phase 2,1.0
+Locality,,32.0,32,,Mayur Vihar Phase 3,1.0
+Locality,,1.0,1,,Mc Millan,1.0
+Locality,,20.0,20,,Mehrauli,1.0
+Locality,,1.0,1,,"Melrose Arch, Melrose ",1.0
+Locality,,1.0,1,,"Menlyn Boutique Hotel, Menlyn",1.0
+Locality,,1.0,1,,"Menlyn Maine, Waterkloof Glen",1.0
+Locality,,2.0,2,,"Menlyn Shopping Centre, Menlyn",1.0
+Locality,,1.0,1,,Meridian,1.0
+Locality,,3.0,3,,"Metro Walk Mall, Rohini",1.0
+Locality,,1.0,1,,Middleton Beach,1.0
+Locality,,1.0,1,,Miller,1.0
+Locality,,2.0,2,,Mills 50,1.0
+Locality,,1.0,1,,Mission Bay,1.0
+Locality,,1.0,1,,Moda,1.0
+Locality,,1.0,1,,Model Town 1,1.0
+Locality,,25.0,25,,Model Town 2,1.0
+Locality,,10.0,10,,Model Town 3,1.0
+Locality,,1.0,1,,Moema,1.0
+Locality,,1.0,1,,Mohan Nagar,1.0
+Locality,,23.0,23,,"Moments Mall, Kirti Nagar",1.0
+Locality,,1.0,1,,Mondha,1.0
+Locality,,1.0,1,,Monroe,1.0
+Locality,,1.0,1,,Montville,1.0
+Locality,,2.0,2,,"Mosaic Hotels, Sector 18, Noida ",1.0
+Locality,,2.0,2,,Moseley,1.0
+Locality,,5.0,5,,Moti Bagh,1.0
+Locality,,40.0,40,,Moti Nagar,1.0
+Locality,,1.0,1,,Mt Albert,1.0
+Locality,,3.0,3,,Mt Eden,1.0
+Locality,,1.0,1,,Mt Victoria,1.0
+Locality,,68.0,68,,Mukherjee Nagar,1.0
+Locality,,43.0,43,,Munirka,1.0
+Locality,,1.0,1,,Musheireb,1.0
+Locality,,1.0,1,,"Mushrif Mall, Al Mushrif",1.0
+Locality,,1.0,1,,Mussafah Sanaiya,1.0
+Locality,,1.0,1,,Muwailih Commercial,1.0
+Locality,,1.0,1,,Mylapore,1.0
+Locality,,4.0,4,,NIT,1.0
+Locality,,2.0,2,,Nadesar,1.0
+Locality,,60.0,60,,Najafgarh,1.0
+Locality,,3.0,3,,Najda,1.0
+Locality,,1.0,1,,Nampa,1.0
+Locality,,41.0,41,,Nangloi,1.0
+Locality,,1.0,1,,Nanpura,1.0
+Locality,,54.0,54,,Naraina,1.0
+Locality,,8.0,8,,Narela,1.0
+Locality,,1.0,1,,"Nassima Royal Hotel, Trade Centre Area",1.0
+Locality,,1.0,1,,Navarre,1.0
+Locality,,2.0,2,,Navrangpura,1.0
+Locality,,32.0,32,,Nehru Place,1.0
+Locality,,1.0,1,,"Neil Road, Outram",1.0
+Locality,,1.0,1,,"Nelson Mandela Square, Sandown",1.0
+Locality,,1.0,1,,Nerul,1.0
+Locality,,48.0,48,,Netaji Subhash Place,1.0
+Locality,,1.0,1,,New BEL Road,1.0
+Locality,,47.0,47,,New Friends Colony,1.0
+Locality,,3.0,3,,New Palasia,1.0
+Locality,,1.0,1,,New Tampa,1.0
+Locality,,4.0,4,,New Town,1.0
+Locality,,1.0,1,,Newlands,1.0
+Locality,,1.0,1,,Newmarket,1.0
+Locality,,1.0,1,,"Nicolway Shopping Centre, Bryanston",1.0
+Locality,,2.0,2,,"Ninex City Mart Mall, Sohna Road",1.0
+Locality,,4.0,4,,Nirala Bazar,1.0
+Locality,,10.0,10,,Nizamuddin,1.0
+Locality,,1.0,1,,"North Bridge Road, Rochor",1.0
+Locality,,1.0,1,,Northeast St Petersburg,1.0
+Locality,,4.0,4,,Northern Quarter,1.0
+Locality,,2.0,2,,Nungambakkam,1.0
+Locality,,1.0,1,,"Nuvali, Don Jose, Santa Rosa",1.0
+Locality,,1.0,1,,Nyay Nagar,1.0
+Locality,,1.0,1,,Ohri' Hitech City,1.0
+Locality,,1.0,1,,Ojo Caliente,1.0
+Locality,,8.0,8,,Okhla Phase 1,1.0
+Locality,,6.0,6,,Okhla Phase 2,1.0
+Locality,,1.0,1,,"Old Dutch Hospital, Fort",1.0
+Locality,,2.0,2,,Old Palasia,1.0
+Locality,,41.0,41,,Old Railway Road,1.0
+Locality,,9.0,9,,Old Town,1.0
+Locality,,1.0,1,,"Omaxe Celebration Mall, Sohna Road, Gurgaon",1.0
+Locality,,3.0,3,,Omaxe Gurgaon Mall,1.0
+Locality,,8.0,8,,"One Horizon Center, Golf Course Road",1.0
+Locality,,1.0,1,,"One and Only Hotel, V & A Waterfront",1.0
+Locality,,2.0,2,,Oxford Road,1.0
+Locality,,1.0,1,,PAU,1.0
+Locality,,13.0,13,,PVR Anupam Complex,1.0
+Locality,,1.0,1,,"Pacific Mall, Jakhan",1.0
+Locality,,27.0,27,,"Pacific Mall, Tagore Garden",1.0
+Locality,,64.0,64,,Paharganj,1.0
+Locality,,1.0,1,,"Pai Hotels, Doora",1.0
+Locality,,1.0,1,,Paia,1.0
+Locality,,60.0,60,,Palam,1.0
+Locality,,49.0,49,,Palam Vihar,1.0
+Locality,,1.0,1,,Palarivattom,1.0
+Locality,,9.0,9,,"Palate of Delhi, Chanakyapuri",1.0
+Locality,,1.0,1,,Palm Cove,1.0
+Locality,,1.0,1,,Palma Ceia,1.0
+Locality,,1.0,1,,Paltan Bazaar,1.0
+Locality,,4.0,4,,Panaji,1.0
+Locality,,3.0,3,,Panampilly Nagar,1.0
+Locality,,4.0,4,,Panchsheel Park,1.0
+Locality,,1.0,1,,Panchvati,1.0
+Locality,,10.0,10,,Pandara Road Market,1.0
+Locality,,20.0,20,,Pandav Nagar,1.0
+Locality,,1.0,1,,Parade,1.0
+Locality,,1.0,1,,Parijat Nagar,1.0
+Locality,,1.0,1,,"Park Ascent, Sector 62, Noida",1.0
+Locality,,1.0,1,,"Park Inn, Sector 15, Gurgaon",1.0
+Locality,,3.0,3,,"Park Plaza Hotel, Sector 55, Noida",1.0
+Locality,,1.0,1,,"Park Plaza, Sector 21, Faridabad",1.0
+Locality,,4.0,4,,"Park Plaza, Sushant Lok",1.0
+Locality,,4.0,4,,Park Street Area,1.0
+Locality,,1.0,1,,"ParkShopping, Guarï¿½ï¿½ I",1.0
+Locality,,3.0,3,,Parkhurst,1.0
+Locality,,1.0,1,,Parktown North,1.0
+Locality,,1.0,1,,Parnell,1.0
+Locality,,3.0,3,,"Parsavnath City Mall, Sector 12, Faridabad",1.0
+Locality,,56.0,56,,Paschim Vihar,1.0
+Locality,,9.0,9,,Patia,1.0
+Locality,,1.0,1,,Patliputra Colony,1.0
+Locality,,8.0,8,,Patparganj,1.0
+Locality,,1.0,1,,Paynesville,1.0
+Locality,,5.0,5,,Peelamedu,1.0
+Locality,,1.0,1,,Peer Gate Area,1.0
+Locality,,1.0,1,,Penjaringan,1.0
+Locality,,1.0,1,,Penola,1.0
+Locality,,1.0,1,,Penrose,1.0
+Locality,,12.0,12,,Pensacola,1.0
+Locality,,5.0,5,,Pensacola Beach,1.0
+Locality,,2.0,2,,Perdido Key,1.0
+Locality,,1.0,1,,Perungudi,1.0
+Locality,,1.0,1,,Phillip Island,1.0
+Locality,,1.0,1,,"Phoenix Market City, Viman Nagar",1.0
+Locality,,1.0,1,,"Piccadily Hotel, Janakpuri",1.0
+Locality,,2.0,2,,"Pineslopes Shopping Centre, Fourways",1.0
+Locality,,1.0,1,,Pinheiros,1.0
+Locality,,4.0,4,,Piplod,1.0
+Locality,,85.0,85,,Pitampura,1.0
+Locality,,1.0,1,,"Plaza Festival, Kuningan",1.0
+Locality,,1.0,1,,"Plaza Mall, MG Road",1.0
+Locality,,16.0,16,,Pocatello,1.0
+Locality,,1.0,1,,Podanur,1.0
+Locality,,1.0,1,,Pondok Aren,1.0
+Locality,,1.0,1,,"Pontï¿½ï¿½o Lago Sul, Lago Sul",1.0
+Locality,,1.0,1,,"Portman Mews South, Marble Arch",1.0
+Locality,,1.0,1,,"Post Office Center, Illovo",1.0
+Locality,,1.0,1,,Potrero,1.0
+Locality,,2.0,2,,Powai,1.0
+Locality,,2.0,2,,Pragati Maidan,1.0
+Locality,,1.0,1,,Prahlad Nagar,1.0
+Locality,,17.0,17,,Prashant Vihar,1.0
+Locality,,1.0,1,,Pratap Nagar,1.0
+Locality,,49.0,49,,Preet Vihar,1.0
+Locality,,2.0,2,,"Premier Inn, Shalimar Bagh",1.0
+Locality,,3.0,3,,"Pride Plaza Hotel, Aerocity",1.0
+Locality,,1.0,1,,Princeton,1.0
+Locality,,1.0,1,,"Prozone Mall, Chicalthana",1.0
+Locality,,60.0,60,,Punjabi Bagh,1.0
+Locality,,1.0,1,,"Quest Mall, Ballygunge",1.0
+Locality,,23.0,23,,Qutab Institutional Area,1.0
+Locality,,13.0,13,,"Qutab Plaza, DLF Phase 1",1.0
+Locality,,1.0,1,,"R Deccan Mall, JM Road",1.0
+Locality,,38.0,38,,R K Puram,1.0
+Locality,,1.0,1,,RA Puram,1.0
+Locality,,2.0,2,,RS Puram,1.0
+Locality,,3.0,9,,Race Course,3.0
+Locality,,1.0,1,,"Radisson Blu Hotel, Vijay Nagar",1.0
+Locality,,6.0,6,,"Radisson Blu Plaza Delhi, Mahipalpur",1.0
+Locality,,1.0,1,,"Radisson Blu, Hindpiri",1.0
+Locality,,2.0,2,,"Radisson Blu, Paschim Vihar",1.0
+Locality,,1.0,1,,"Radisson Blu, Sector 18, Noida",1.0
+Locality,,2.0,2,,"Radisson Blu, Tajganj",1.0
+Locality,,2.0,2,,"Radisson Hotel, Nadesar",1.0
+Locality,,3.0,3,,"Raheja Mall, Sohna Road",1.0
+Locality,,1.0,1,,"Rajagiriya, Colombo",1.0
+Locality,,8.0,8,,Rajendra Place,1.0
+Locality,,1.0,1,,Rajguru Nagar,1.0
+Locality,,81.0,81,,Rajinder Nagar,1.0
+Locality,,99.0,99,,Rajouri Garden,1.0
+Locality,,5.0,5,,Rajpur,1.0
+Locality,,1.0,1,,Rakabganj,1.0
+Locality,,1.0,1,,"Ramada Gurgaon Central, Sector 44",1.0
+Locality,,1.0,1,,Ramapuram,1.0
+Locality,,1.0,1,,Ramdaspeth,1.0
+Locality,,1.0,1,,"Ramee Guestline Hotel, Juhu",1.0
+Locality,,5.0,5,,Ranjit Avenue,1.0
+Locality,,1.0,1,,"Rave 3, Tilak Nagar",1.0
+Locality,,1.0,1,,"Rave Moti, Kakadeo",1.0
+Locality,,1.0,1,,Ravet,1.0
+Locality,,1.0,1,,Renaissance Lucknow Hotel,1.0
+Locality,,2.0,2,,Repï¿½_blica,1.0
+Locality,,1.0,1,,Residency Road,1.0
+Locality,,1.0,1,,Restaurant Row,1.0
+Locality,,3.0,3,,Ringgold,1.0
+Locality,,1.0,1,,"Riverside Mall, Gomti Nagar",1.0
+Locality,,1.0,1,,"Robertson Quay, Singapore River",1.0
+Locality,,1.0,1,,Rock Spring,1.0
+Locality,,48.0,48,,Rohini,1.0
+Locality,,3.0,3,,"Roseate House, Aerocity",1.0
+Locality,,1.0,1,,Rosebank,1.0
+Locality,,1.0,1,,"Royal Inn, Hazratganj",1.0
+Locality,,1.0,1,,Rushikonda,1.0
+Locality,,2.0,2,,Rusholme,1.0
+Locality,,15.0,15,,SDA,1.0
+Locality,,2.0,2,,"SM Aura Premier, Bonifacio Global City, Taguig City",1.0
+Locality,,3.0,3,,"SM Megamall, Ortigas, Mandaluyong City",1.0
+Locality,,2.0,2,,"SM by the Bay, Mall of Asia Complex, Pasay City",1.0
+Locality,,1.0,1,,"SMS Hotel, Peelamedu",1.0
+Locality,,1.0,1,,"SRS Mall, Sector 12, Faridabad",1.0
+Locality,,1.0,1,,"SSK Solitaire, Satpur",1.0
+Locality,,1.0,1,,Sadar,1.0
+Locality,,1.0,1,,Sadar Bazaar,1.0
+Locality,,2.0,2,,Sadar Bazar,1.0
+Locality,,80.0,80,,Safdarjung,1.0
+Locality,,1.0,1,,Sagar Nagar,1.0
+Locality,,1.0,1,,"Sahara Centre, Al Nahda",1.0
+Locality,,2.0,2,,"Sahara Mall, MG Road",1.0
+Locality,,2.0,2,,Sahid Nagar,1.0
+Locality,,2.0,2,,Saibaba Colony,1.0
+Locality,,35.0,35,,Sainik Farms,1.0
+Locality,,1.0,1,,Sainikpuri,1.0
+Locality,,36.0,36,,Saket,1.0
+Locality,,1.0,1,,Sanford,1.0
+Locality,,7.0,7,,"Sangam Courtyard, RK Puram",1.0
+Locality,,1.0,1,,Santa Teresa,1.0
+Locality,,1.0,1,,Santhome,1.0
+Locality,,1.0,1,,Sarabha Nagar,1.0
+Locality,,26.0,26,,Sarita Vihar,1.0
+Locality,,2.0,2,,Sarjapur Road,1.0
+Locality,,13.0,13,,Sarojini Nagar,1.0
+Locality,,4.0,4,,Satpur,1.0
+Locality,,1.0,1,,Satwa,1.0
+Locality,,79.0,79,,Satyaniketan,1.0
+Locality,,18.0,18,,Savannah,1.0
+Locality,,1.0,1,,Sayaji Hotel,1.0
+Locality,,1.0,1,,"Sayaji Hotel, Vijay Nagar",1.0
+Locality,,2.0,2,,Sea Point,1.0
+Locality,,2.0,2,,Sector 1,1.0
+Locality,,7.5,15,,Sector 10,2.0
+Locality,,6.0,12,,Sector 11,2.0
+Locality,,53.0,53,,Sector 110,1.0
+Locality,,10.0,30,,Sector 12,3.0
+Locality,,8.0,8,,Sector 125,1.0
+Locality,,1.0,1,,Sector 127,1.0
+Locality,,43.0,43,,Sector 132,1.0
+Locality,,52.0,52,,Sector 14,1.0
+Locality,,23.666666666666668,71,,Sector 15,3.0
+Locality,,1.0,1,,"Sector 15, Dwarka",1.0
+Locality,,14.0,28,,Sector 16,2.0
+Locality,,15.5,31,,Sector 17,2.0
+Locality,,75.0,75,,Sector 18,1.0
+Locality,,3.0,6,,Sector 19,2.0
+Locality,,9.0,9,,Sector 2,1.0
+Locality,,3.0,3,,Sector 20,1.0
+Locality,,8.0,24,,Sector 21,3.0
+Locality,,9.0,18,,Sector 22,2.0
+Locality,,12.0,12,,Sector 23,1.0
+Locality,,6.0,6,,Sector 25,1.0
+Locality,,2.5,5,,Sector 26,2.0
+Locality,,26.0,26,,Sector 27,1.0
+Locality,,3.6666666666666665,11,,Sector 28,3.0
+Locality,,15.666666666666666,47,,Sector 29,3.0
+Locality,,5.0,5,,Sector 3,1.0
+Locality,,1.6666666666666667,5,,Sector 30,3.0
+Locality,,17.333333333333332,52,,Sector 31,3.0
+Locality,,5.0,5,,Sector 33,1.0
+Locality,,7.5,15,,Sector 34,2.0
+Locality,,4.5,9,,Sector 35,2.0
+Locality,,22.5,45,,Sector 37,2.0
+Locality,,13.0,13,,Sector 38,1.0
+Locality,,11.5,23,,Sector 39,2.0
+Locality,,2.0,2,,Sector 4,1.0
+Locality,,2.0,2,,Sector 40,1.0
+Locality,,24.0,48,,Sector 41,2.0
+Locality,,3.0,3,,Sector 42,1.0
+Locality,,7.0,14,,Sector 43,2.0
+Locality,,23.0,23,,Sector 44,1.0
+Locality,,20.0,40,,Sector 45,2.0
+Locality,,4.0,4,,Sector 46,1.0
+Locality,,6.0,6,,Sector 47,1.0
+Locality,,10.0,10,,Sector 48,1.0
+Locality,,2.5,5,,Sector 49,2.0
+Locality,,2.0,4,,Sector 5,2.0
+Locality,,2.0,2,,"Sector 5, Salt Lake",1.0
+Locality,,18.5,37,,Sector 50,2.0
+Locality,,28.0,28,,Sector 51,1.0
+Locality,,5.0,5,,Sector 52,1.0
+Locality,,10.0,20,,Sector 53,2.0
+Locality,,2.0,2,,Sector 54,1.0
+Locality,,2.0,2,,Sector 55,1.0
+Locality,,29.5,59,,Sector 56,2.0
+Locality,,1.5,3,,Sector 57,2.0
+Locality,,13.0,13,,Sector 58,1.0
+Locality,,7.0,7,,Sector 59,1.0
+Locality,,1.0,1,,Sector 6,1.0
+Locality,,3.0,3,,Sector 60,1.0
+Locality,,5.0,5,,Sector 61,1.0
+Locality,,76.0,76,,Sector 62,1.0
+Locality,,12.0,12,,Sector 63,1.0
+Locality,,6.0,6,,Sector 65,1.0
+Locality,,6.0,24,,Sector 7,4.0
+Locality,,1.0,1,,Sector 70,1.0
+Locality,,7.0,7,,Sector 71,1.0
+Locality,,61.0,61,,Sector 72,1.0
+Locality,,2.333333333333333,7,,Sector 8,3.0
+Locality,,1.0,1,,Sector 83,1.0
+Locality,,11.0,11,,Sector 86,1.0
+Locality,,3.0,6,,Sector 9,2.0
+Locality,,18.0,18,,Sector 93,1.0
+Locality,,25.0,25,,"Select Citywalk Mall, Saket",1.0
+Locality,,3.0,3,,Seminole Heights,1.0
+Locality,,2.0,2,,Senapati Bapat Road,1.0
+Locality,,2.0,2,,Senopati,1.0
+Locality,,1.0,1,,Setor De Clubes Esportivos Sul,1.0
+Locality,,87.0,87,,Shahdara,1.0
+Locality,,1.0,1,,Shahgunj,1.0
+Locality,,26.0,26,,Shahpur Jat,1.0
+Locality,,27.0,27,,Shakarpur,1.0
+Locality,,67.0,67,,Shalimar Bagh,1.0
+Locality,,5.0,5,,"Shangri La's - Eros hotel, Janpath",1.0
+Locality,,2.0,2,,Shanti Niketan Marg,1.0
+Locality,,1.0,1,,Shastri Nagar,1.0
+Locality,,1.0,1,,Shastri Park,1.0
+Locality,,1.0,1,,Sheikh Sarai,1.0
+Locality,,3.0,3,,"Sheraton New Delhi Hotel, Saket",1.0
+Locality,,17.0,17,,"Shipra Mall, Indirapuram",1.0
+Locality,,1.0,1,,Shivala,1.0
+Locality,,1.0,1,,"Shopping Iguatemi, Lago Norte",1.0
+Locality,,6.0,6,,"Shopping Mall, DLF Phase 1",1.0
+Locality,,1.0,1,,"Shopping Metrï¿½ï¿½ Santa Cruz, Vila Mariana",1.0
+Locality,,1.0,1,,"Shopping Morumbi, Santo Amaro",1.0
+Locality,,2.0,2,,"Shopprix Mall, Sector 61, Noida",1.0
+Locality,,2.0,2,,Sigra,1.0
+Locality,,4.0,4,,Sikandarpur,1.0
+Locality,,1.0,1,,"Silver Arc Mall, Gurdev Nagar",1.0
+Locality,,1.0,1,,"Silver Spring Arcade, Science City Area",1.0
+Locality,,18.0,18,,Sioux City,1.0
+Locality,,2.0,2,,Siripuram,1.0
+Locality,,3.0,3,,Sitabuldi,1.0
+Locality,,1.0,1,,Six Mile,1.0
+Locality,,1.0,1,,"Sky City Metro, Auckland CBD",1.0
+Locality,,1.0,1,,"Slave Island, Colombo 02",1.0
+Locality,,1.0,1,,Small Heath,1.0
+Locality,,1.0,1,,Smethwick,1.0
+Locality,,1.0,1,,"Sofitel Philippine Plaza Manila, Pasay City",1.0
+Locality,,42.0,42,,Sohna Road,1.0
+Locality,,1.0,1,,"Solenad 3, Don Jose, Santa Rosa",1.0
+Locality,,1.0,1,,Souq Waqif,1.0
+Locality,,2.0,2,,South City 1,1.0
+Locality,,8.0,8,,South City 2,1.0
+Locality,,13.0,13,,South Extension 1,1.0
+Locality,,41.0,41,,South Extension 2,1.0
+Locality,,1.0,1,,South Sioux City,1.0
+Locality,,1.0,1,,Southern Avenue,1.0
+Locality,,2.0,2,,"Southern Park Mall, Saket",1.0
+Locality,,5.0,5,,"Spark Mall, Kamla Nagar",1.0
+Locality,,1.0,1,,Sparkhill,1.0
+Locality,,16.0,16,,"Spice World Mall, Sector 25",1.0
+Locality,,3.0,3,,Spinningfields,1.0
+Locality,,1.0,1,,"Spot 18 Mall, Pimple Saudagar",1.0
+Locality,,1.0,1,,"Spring City Mall, Doranda",1.0
+Locality,,3.0,3,,Sri Krishnapuri,1.0
+Locality,,7.0,7,,"Star City Mall, Mayur Vihar Phase 1",1.0
+Locality,,1.0,1,,"Status Club, Kanpur Cantonment",1.0
+Locality,,51.0,51,,Subhash Nagar,1.0
+Locality,,1.0,1,,Sudoeste,1.0
+Locality,,2.0,2,,"Suncity Business Tower, Golf Course Road",1.0
+Locality,,7.0,7,,Sunder Nagar,1.0
+Locality,,1.0,1,,Sunderpur,1.0
+Locality,,1.0,1,,"Sungai Pinang, Rochor",1.0
+Locality,,17.0,17,,"Supermart 1, DLF Phase 4",1.0
+Locality,,19.0,19,,"Supertech Shopprix Mall, Sector 61",1.0
+Locality,,19.0,19,,Suraj Kund,1.0
+Locality,,2.0,2,,Surya Nagar,1.0
+Locality,,30.0,30,,Sushant Lok,1.0
+Locality,,18.0,18,,"Sushant Shopping Arcade, Sushant Lok, Gurgaon",1.0
+Locality,,3.0,3,,Swaroop Nagar,1.0
+Locality,,1.0,1,,Sylvester,1.0
+Locality,,2.0,2,,T. Nagar,1.0
+Locality,,1.0,1,,"T3 Domestic Arrival, Aerocity",1.0
+Locality,,3.0,3,,"TDI Mall, Rajouri Garden",1.0
+Locality,,3.0,3,,TT Nagar,1.0
+Locality,,1.0,1,,Tagaytay City,1.0
+Locality,,36.0,36,,Tagore Garden,1.0
+Locality,,1.0,1,,Tagore Town,1.0
+Locality,,3.0,3,,"Taj Vivanta, Khan Market",1.0
+Locality,,8.0,8,,Tajganj,1.0
+Locality,,1.0,1,,"Taman Impian Jaya Ancol, Ancol",1.0
+Locality,,1.0,1,,Tanjung Duren,1.0
+Locality,,1.0,1,,Tanunda,1.0
+Locality,,1.0,1,,"Tavistock Court, Covent Garden",1.0
+Locality,,15.0,15,,Te Aro,1.0
+Locality,,1.0,1,,Tebet,1.0
+Locality,,1.0,1,,"Telok Ayer Street, Outram",1.0
+Locality,,1.0,1,,Thaltej,1.0
+Locality,,1.0,1,,Thamrin,1.0
+Locality,,6.0,6,,"The Ashok, Chanakyapuri",1.0
+Locality,,2.0,2,,"The Atrium, Suraj Kund",1.0
+Locality,,3.0,3,,"The Bristol Hotel, DLF Phase 1",1.0
+Locality,,1.0,1,,"The Claremont, MG Road",1.0
+Locality,,7.0,7,,"The Claridges, Aurangzeb Road",1.0
+Locality,,2.0,2,,"The Club Centre, Hazelwood, Near Waterkloof",1.0
+Locality,,1.0,1,,"The Crown, Nayapalli",1.0
+Locality,,3.0,3,,"The Dubai Mall,Downtown Dubai",1.0
+Locality,,1.0,1,,"The Fern, Sola",1.0
+Locality,,1.0,1,,"The Galgotias, Sector 23",1.0
+Locality,,1.0,1,,"The Gate, Dafna",1.0
+Locality,,2.0,2,,"The Grand New Delhi, Vasant Kunj",1.0
+Locality,,37.0,37,,"The Great India Place, Sector 38",1.0
+Locality,,2.0,2,,"The Habitare Hotel, Sector 14",1.0
+Locality,,9.0,9,,"The Imperial, Janpath",1.0
+Locality,,8.0,8,,"The India Mall, New Friends Colony",1.0
+Locality,,8.0,8,,"The Lalit New Delhi, Barakhamba Road",1.0
+Locality,,1.0,1,,"The Landmark Hotel, Mall Road",1.0
+Locality,,1.0,1,,"The Langham Hotel, Auckland CBD",1.0
+Locality,,4.0,4,,The Leela Ambience Convention Hotel,1.0
+Locality,,5.0,5,,"The Leela Palace, Chanakyapuri",1.0
+Locality,,2.0,2,,"The Lodhi, Lodhi Road",1.0
+Locality,,1.0,1,,"The Mailbox, Broad Street",1.0
+Locality,,2.0,2,,"The Midland, Deansgate",1.0
+Locality,,1.0,1,,The Milk District,1.0
+Locality,,1.0,1,,"The Oberoi, Udyog Vihar",1.0
+Locality,,1.0,1,,"The Ocean Pearl, Kodailbail",1.0
+Locality,,3.0,3,,"The Park, Connaught Place",1.0
+Locality,,1.0,1,,"The Park, Lawsons Bay",1.0
+Locality,,1.0,1,,"The Pllazio Hotel, Sector 29",1.0
+Locality,,2.0,2,,"The Promenade, White Town",1.0
+Locality,,1.0,1,,"The Royal Retreat, Bariatu",1.0
+Locality,,1.0,1,,"The Sapphire Mall, Sohna Road",1.0
+Locality,,1.0,1,,"The St. Regis, Westbay",1.0
+Locality,,4.0,4,,"The Suryaa New Delhi, New Friends Colony",1.0
+Locality,,7.0,7,,"The Taj Mahal Hotel, Mansingh Road",1.0
+Locality,,4.0,4,,"The Taj Palace Hotel, Chanakyapuri",1.0
+Locality,,3.0,3,,"The Uppal, Aerocity",1.0
+Locality,,3.0,3,,"The Village Restaurant Complex, Khel Gaon Marg",1.0
+Locality,,1.0,1,,"The Westin Doha Hotel & Spa, Fereej Bin Mahmoud",1.0
+Locality,,3.0,3,,"The Westin Gurgaon, Sector 29",1.0
+Locality,,2.0,2,,"The Westin Sohna Resort & Spa, Sohna Road",1.0
+Locality,,1.0,1,,Tijuca,1.0
+Locality,,1.0,1,,Tilak Marg,1.0
+Locality,,30.5,61,,Tilak Nagar,2.0
+Locality,,1.0,1,,Tollcross,1.0
+Locality,,1.0,1,,Tonk Road,1.0
+Locality,,4.0,8,,Town Hall,2.0
+Locality,,1.0,1,,Trade Centre Area,1.0
+Locality,,1.0,1,,Trentham East,1.0
+Locality,,2.0,2,,"Trident, Udyog Vihar",1.0
+Locality,,1.0,1,,Trilokpuri,1.0
+Locality,,1.0,1,,Tughlakabad Institutional Area,1.0
+Locality,,5.0,5,,"Tulip Mall, Sector 48, Noida",1.0
+Locality,,1.0,1,,"Twelve Picardy Place, New Town",1.0
+Locality,,3.0,3,,"Two Horizon Center, Golf Course Road",1.0
+Locality,,2.0,2,,Tybee Island,1.0
+Locality,,1.0,1,,UB City,1.0
+Locality,,1.0,1,,"UP Town Center, Diliman, Quezon City",1.0
+Locality,,3.0,3,,Uday Park,1.0
+Locality,,37.0,37,,Udyog Vihar,1.0
+Locality,,2.0,2,,Ulubari,1.0
+Locality,,2.0,2,,Umm Ghuwailina,1.0
+Locality,,1.0,1,,Umm Hurair,1.0
+Locality,,1.0,1,,Unit 4,1.0
+Locality,,5.0,5,,"Unitech Cyber Park, Sector 39, Gurgaon",1.0
+Locality,,25.0,25,,"Unitech Infospace, Sector 21, Gurgaon",1.0
+Locality,,5.0,5,,"Unity One Mall, Janakpuri",1.0
+Locality,,3.0,3,,University City,1.0
+Locality,,2.0,2,,"Upper St Martin's Lane, Covent Garden",1.0
+Locality,,1.0,1,,Urbandale,1.0
+Locality,,1.0,1,,Urca,1.0
+Locality,,2.0,2,,Usmanpura,1.0
+Locality,,59.0,59,,Uttam Nagar,1.0
+Locality,,5.0,5,,Uzan Bazaar,1.0
+Locality,,2.0,2,,V & A Waterfront,1.0
+Locality,,26.0,26,,"V3S Mall, Laxmi Nagar",1.0
+Locality,,8.0,8,,Vadiwadi,1.0
+Locality,,1.0,1,,Vagator,1.0
+Locality,,2.0,2,,Vaishali Nagar,1.0
+Locality,,20.0,20,,Valdosta,1.0
+Locality,,23.0,23,,Vasant Kunj,1.0
+Locality,,9.0,9,,"Vasant Square Mall, Vasant Kunj",1.0
+Locality,,36.0,36,,Vasant Vihar,1.0
+Locality,,2.0,2,,Vastrapur,1.0
+Locality,,62.0,62,,Vasundhara Enclave,1.0
+Locality,,3.0,3,,Velachery,1.0
+Locality,,1.0,1,,"Venetian Village, Al Maqtaa",1.0
+Locality,,1.0,1,,Vernonia,1.0
+Locality,,1.0,1,,"Versova, Andheri West",1.0
+Locality,,4.0,4,,Vesu,1.0
+Locality,,1.0,1,,"Vibe by The LaLit Traveller, Mathura Road",1.0
+Locality,,1.0,1,,Victor Harbor,1.0
+Locality,,2.0,2,,"Victoria Wharf, V & A Waterfront",1.0
+Locality,,1.0,1,,"Victoria, Rochor",1.0
+Locality,,1.0,1,,Vidhyadhar Nagar,1.0
+Locality,,15.333333333333334,46,,Vijay Nagar,3.0
+Locality,,2.0,2,,Vikas Marg,1.0
+Locality,,60.0,60,,Vikaspuri,1.0
+Locality,,1.0,1,,Vila Maria,1.0
+Locality,,1.0,1,,Vila Mariana,1.0
+Locality,,1.0,1,,Vila Sï¿½ï¿½nia,1.0
+Locality,,1.0,1,,Vile Parle East,1.0
+Locality,,1.0,1,,"Villa Shanti, White Town",1.0
+Locality,,1.0,1,,Viman Nagar,1.0
+Locality,,1.0,1,,"Vinayak City Centre Mall, Civil Lines",1.0
+Locality,,1.0,1,,Vineland Station,1.0
+Locality,,2.0,2,,"Vivanta by Taj, Sector 44, Gurgaon",1.0
+Locality,,36.0,36,,Vivek Vihar,1.0
+Locality,,1.0,1,,Vivekanand Nagar,1.0
+Locality,,7.0,7,,"Vyapar Kendra, Palam Vihar",1.0
+Locality,,17.0,17,,"Vyapar Kendra, Sushant Lok",1.0
+Locality,,1.0,1,,Vyttila,1.0
+Locality,,7.0,7,,Waikiki,1.0
+Locality,,1.0,1,,Wakad,1.0
+Locality,,1.0,1,,"Walker's Court, Soho",1.0
+Locality,,1.0,1,,Waltair Uplands,1.0
+Locality,,9.0,9,,Warner Robins,1.0
+Locality,,1.0,1,,"Waterfall Corner Mall, Midrand",1.0
+Locality,,1.0,1,,"Waterglen Shopping Centre, Garsfontein",1.0
+Locality,,3.0,3,,Waterkloof,1.0
+Locality,,7.0,7,,Waterloo,1.0
+Locality,,6.0,6,,Wazirpur,1.0
+Locality,,1.0,1,,Weirton,1.0
+Locality,,3.0,3,,Wellington Central,1.0
+Locality,,2.0,2,,West Des Moines,1.0
+Locality,,2.0,2,,"West End Mall, Janak Puri",1.0
+Locality,,1.0,1,,"West Gate Mall, Rajouri Garden",1.0
+Locality,,1.0,1,,West Park,1.0
+Locality,,4.0,4,,West Patel Nagar,1.0
+Locality,,1.0,1,,"Westend Mall, Rajguru Nagar",1.0
+Locality,,3.0,3,,White Avenue,1.0
+Locality,,8.0,8,,White Town,1.0
+Locality,,1.0,1,,Winchester Bay,1.0
+Locality,,1.0,1,,Windermere,1.0
+Locality,,6.0,6,,Winter Park,1.0
+Locality,,1.0,1,,"Woods Resort, Gurgaon",1.0
+Locality,,2.0,2,,"World Trade Center Mall, Al Markaziya",1.0
+Locality,,14.0,14,,"Worldmark 1, Aerocity",1.0
+Locality,,1.0,1,,"Worldmark 3, Aerocity",1.0
+Locality,,1.0,1,,Wynyard Quarter,1.0
+Locality,,1.0,1,,YN Road,1.0
+Locality,,1.0,1,,"Yas Mall, Yas Island",1.0
+Locality,,1.0,1,,Ybor City,1.0
+Locality,,1.0,1,,Yorkton,1.0
+Locality,,25.0,25,,Yusuf Sarai,1.0
+Locality,,1.0,1,,YÛ±ldÛ±zevler,1.0
+Locality,,1.0,1,,"Z Square Mall, Mall Road",1.0
+Locality,,14.0,14,,Zakir Nagar,1.0
+Locality,,4.0,4,,Zoo Tiniali,1.0
+Locality,,2.0,2,,"ibis New Delhi, Aerocity",1.0
+Locality,,1.0,1,,ï¿½ayyolu,1.0
+Locality,,3.0,3,,ï¿½guas Claras,1.0
+Locality,,1.0,1,,ï¿½ukurambar,1.0
+Locality,,1.0,1,,ï¿½ï¿½mitkï¿½_y,1.0

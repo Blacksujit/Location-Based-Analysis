@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Error
+{% endblock %}
+
+{% block content %}
+<section class="py-5">
+    <div class="container">
+        <h1>Error</h1>
+        <p>{{ message }}</p>
+        <a href="{{ url_for('home') }}">Go back</a>
+    </div>
+</section>
+
+{% endblock %}

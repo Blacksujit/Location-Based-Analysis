@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1b643220fcb6d69b200d7567782ff885 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_1b643220fcb6d69b200d7567782ff885" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1b643220fcb6d69b200d7567782ff885 = L.map(
+                "map_1b643220fcb6d69b200d7567782ff885",
+                {
+                    center: [18.551124155, 73.84967069749999],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_d5382ec82beb7cd2ba93bee5f8dfeafc = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_d5382ec82beb7cd2ba93bee5f8dfeafc.addTo(map_1b643220fcb6d69b200d7567782ff885);
+        
+    
+            var marker_cluster_5788be7163a198bb5daecbab29914be0 = L.markerClusterGroup(
+                {}
+            );
+        
+    
+            var marker_de3a1397d5237e292deeea587e777313 = L.marker(
+                [18.5691562, 73.77472289],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_7dbf727bdb2b5ca907a18992b73bc77c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_de3a1397d5237e292deeea587e777313.setIcon(icon_7dbf727bdb2b5ca907a18992b73bc77c);
+        
+    
+        var popup_d2f58c6b4a5699bdfef74c4e504fdfa5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_662997305ee51687a1aeaef5254ba65d = $(`<div id="html_662997305ee51687a1aeaef5254ba65d" style="width: 100.0%; height: 100.0%;">The Urban Foundry - North Indian, Asian - 4.5</div>`)[0];
+                popup_d2f58c6b4a5699bdfef74c4e504fdfa5.setContent(html_662997305ee51687a1aeaef5254ba65d);
+            
+        
+
+        marker_de3a1397d5237e292deeea587e777313.bindPopup(popup_d2f58c6b4a5699bdfef74c4e504fdfa5)
+        ;
+
+        
+    
+    
+            var marker_4a6ec16d1320d7a8d65e73f340d9035e = L.marker(
+                [18.5514399, 73.80485516],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_bcb01f8a913acc204f8476ec28e1ab8e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4a6ec16d1320d7a8d65e73f340d9035e.setIcon(icon_bcb01f8a913acc204f8476ec28e1ab8e);
+        
+    
+        var popup_def20db50b7162d2e5c671af6b899ba2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_66e736822479e9a274141ea33609a4cb = $(`<div id="html_66e736822479e9a274141ea33609a4cb" style="width: 100.0%; height: 100.0%;">Teddy Boy - North Indian, Continental, Finger Food - 3.6</div>`)[0];
+                popup_def20db50b7162d2e5c671af6b899ba2.setContent(html_66e736822479e9a274141ea33609a4cb);
+            
+        
+
+        marker_4a6ec16d1320d7a8d65e73f340d9035e.bindPopup(popup_def20db50b7162d2e5c671af6b899ba2)
+        ;
+
+        
+    
+    
+            var marker_a5c7e60677764e6799cedb28270711a1 = L.marker(
+                [18.554382, 73.7982064],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_72d6bdc82d53f0214758092d4be2733e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_a5c7e60677764e6799cedb28270711a1.setIcon(icon_72d6bdc82d53f0214758092d4be2733e);
+        
+    
+        var popup_61df01ed32c1f5ccb2a34531bdb8cb50 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ada2b7ee61505355f1785e25a521f86f = $(`<div id="html_ada2b7ee61505355f1785e25a521f86f" style="width: 100.0%; height: 100.0%;">Effingut Brewerkz - Continental, North Indian, Mughlai, Burmese - 4.3</div>`)[0];
+                popup_61df01ed32c1f5ccb2a34531bdb8cb50.setContent(html_ada2b7ee61505355f1785e25a521f86f);
+            
+        
+
+        marker_a5c7e60677764e6799cedb28270711a1.bindPopup(popup_61df01ed32c1f5ccb2a34531bdb8cb50)
+        ;
+
+        
+    
+    
+            var marker_1ee83d9c68ebab0f682553a604cc7bb4 = L.marker(
+                [18.51420998, 73.83842938],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_8812b8cafa2ec730b24cb51757535288 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_1ee83d9c68ebab0f682553a604cc7bb4.setIcon(icon_8812b8cafa2ec730b24cb51757535288);
+        
+    
+        var popup_ba58a7577ccd5d1f11b5433018ca5968 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f893910cfd333d504167a20bfad6ab74 = $(`<div id="html_f893910cfd333d504167a20bfad6ab74" style="width: 100.0%; height: 100.0%;">Le Plaisir - European, Desserts - 4.8</div>`)[0];
+                popup_ba58a7577ccd5d1f11b5433018ca5968.setContent(html_f893910cfd333d504167a20bfad6ab74);
+            
+        
+
+        marker_1ee83d9c68ebab0f682553a604cc7bb4.bindPopup(popup_ba58a7577ccd5d1f11b5433018ca5968)
+        ;
+
+        
+    
+    
+            var marker_e36fbf8e3b04f2115df9e54df0aa98c5 = L.marker(
+                [18.5436256, 73.9051007],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_f45cb082228b2f9ece1e510232b4e279 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e36fbf8e3b04f2115df9e54df0aa98c5.setIcon(icon_f45cb082228b2f9ece1e510232b4e279);
+        
+    
+        var popup_2c8787583e1e8615adcef2cd1a057254 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9adf8858a966e30c7a068b18b4f0c554 = $(`<div id="html_9adf8858a966e30c7a068b18b4f0c554" style="width: 100.0%; height: 100.0%;">Farzi Cafe - Modern Indian - 4.3</div>`)[0];
+                popup_2c8787583e1e8615adcef2cd1a057254.setContent(html_9adf8858a966e30c7a068b18b4f0c554);
+            
+        
+
+        marker_e36fbf8e3b04f2115df9e54df0aa98c5.bindPopup(popup_2c8787583e1e8615adcef2cd1a057254)
+        ;
+
+        
+    
+    
+            var marker_9d0847ac1573fef8e01ef163b71f04a2 = L.marker(
+                [18.54625752, 73.90433729],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_28204a6dc1e8947ab47e3c63368ed575 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_9d0847ac1573fef8e01ef163b71f04a2.setIcon(icon_28204a6dc1e8947ab47e3c63368ed575);
+        
+    
+        var popup_fe5852c580a6307eac3d986f2cfe3844 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_51cddc05a963c598e5c46acd1c42fb9e = $(`<div id="html_51cddc05a963c598e5c46acd1c42fb9e" style="width: 100.0%; height: 100.0%;">Mineority By Saby - North Indian, North Eastern, Continental - 4.2</div>`)[0];
+                popup_fe5852c580a6307eac3d986f2cfe3844.setContent(html_51cddc05a963c598e5c46acd1c42fb9e);
+            
+        
+
+        marker_9d0847ac1573fef8e01ef163b71f04a2.bindPopup(popup_fe5852c580a6307eac3d986f2cfe3844)
+        ;
+
+        
+    
+    
+            var marker_37395ac45074b455d1337d65560a9382 = L.marker(
+                [18.54694697, 73.90062645],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_a6c5b86b932e81947e27c7f428ebdfb4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_37395ac45074b455d1337d65560a9382.setIcon(icon_a6c5b86b932e81947e27c7f428ebdfb4);
+        
+    
+        var popup_eab6443630ddccf1050d21517b6ec488 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8e846a3970c44c3880771f5f1f2b07c5 = $(`<div id="html_8e846a3970c44c3880771f5f1f2b07c5" style="width: 100.0%; height: 100.0%;">The Little Next Door - Finger Food, Italian, Spanish, Greek - 4.1</div>`)[0];
+                popup_eab6443630ddccf1050d21517b6ec488.setContent(html_8e846a3970c44c3880771f5f1f2b07c5);
+            
+        
+
+        marker_37395ac45074b455d1337d65560a9382.bindPopup(popup_eab6443630ddccf1050d21517b6ec488)
+        ;
+
+        
+    
+    
+            var marker_50d4d3395868f0d95bb1fca769ac8216 = L.marker(
+                [18.53408003, 73.89852025],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_68a1c656eae5345ea42342ee80cfa824 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_50d4d3395868f0d95bb1fca769ac8216.setIcon(icon_68a1c656eae5345ea42342ee80cfa824);
+        
+    
+        var popup_dc3d551c7be3c0aabcd345c02d58d817 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_683b7c86f58df846ea20c7cc39fb74d8 = $(`<div id="html_683b7c86f58df846ea20c7cc39fb74d8" style="width: 100.0%; height: 100.0%;">Effingut Brewerkz - Continental, North Indian, Mughlai, Burmese - 4.3</div>`)[0];
+                popup_dc3d551c7be3c0aabcd345c02d58d817.setContent(html_683b7c86f58df846ea20c7cc39fb74d8);
+            
+        
+
+        marker_50d4d3395868f0d95bb1fca769ac8216.bindPopup(popup_dc3d551c7be3c0aabcd345c02d58d817)
+        ;
+
+        
+    
+    
+            var marker_067d6cc37ecbd3e94a986d5b23425e5a = L.marker(
+                [18.53656175, 73.89648478],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_41679eb184cfdc27eacc0fb753b0272a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_067d6cc37ecbd3e94a986d5b23425e5a.setIcon(icon_41679eb184cfdc27eacc0fb753b0272a);
+        
+    
+        var popup_d7540458008b324471778cdcb7d4bd11 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2ffd40256c12e4f7e0a0cb6740852960 = $(`<div id="html_2ffd40256c12e4f7e0a0cb6740852960" style="width: 100.0%; height: 100.0%;">Kargo - Charcoal Grill, Italian, North Indian, European, Indonesian, Thai - 4.4</div>`)[0];
+                popup_d7540458008b324471778cdcb7d4bd11.setContent(html_2ffd40256c12e4f7e0a0cb6740852960);
+            
+        
+
+        marker_067d6cc37ecbd3e94a986d5b23425e5a.bindPopup(popup_d7540458008b324471778cdcb7d4bd11)
+        ;
+
+        
+    
+    
+            var marker_ee6b697ac724e4d3fad38e5cea7643e0 = L.marker(
+                [18.53929933, 73.897902],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_dbe8dc2f85a01ba46b6fa153fa0aff42 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_ee6b697ac724e4d3fad38e5cea7643e0.setIcon(icon_dbe8dc2f85a01ba46b6fa153fa0aff42);
+        
+    
+        var popup_4780e2c84b9b778b6584799bca40bdac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ae1c8bcb25065aaa229d3d96d88af771 = $(`<div id="html_ae1c8bcb25065aaa229d3d96d88af771" style="width: 100.0%; height: 100.0%;">Saut��ed Stories - Cafe, Italian, Continental - 4.2</div>`)[0];
+                popup_4780e2c84b9b778b6584799bca40bdac.setContent(html_ae1c8bcb25065aaa229d3d96d88af771);
+            
+        
+
+        marker_ee6b697ac724e4d3fad38e5cea7643e0.bindPopup(popup_4780e2c84b9b778b6584799bca40bdac)
+        ;
+
+        
+    
+    
+            var marker_db60e96de2d4f1d035d9635eb5172c0f = L.marker(
+                [18.533811, 73.899315],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_65f05302cbc885e861bfddb69b54994b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_db60e96de2d4f1d035d9635eb5172c0f.setIcon(icon_65f05302cbc885e861bfddb69b54994b);
+        
+    
+        var popup_fdd0477525abe6cad7702c6fc493ae6c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5c4008542803281149b88b416a6c0bd1 = $(`<div id="html_5c4008542803281149b88b416a6c0bd1" style="width: 100.0%; height: 100.0%;">The Sassy Spoon - European, Asian, Mediterranean, Modern Indian, Desserts, Finger Food - 4.1</div>`)[0];
+                popup_fdd0477525abe6cad7702c6fc493ae6c.setContent(html_5c4008542803281149b88b416a6c0bd1);
+            
+        
+
+        marker_db60e96de2d4f1d035d9635eb5172c0f.bindPopup(popup_fdd0477525abe6cad7702c6fc493ae6c)
+        ;
+
+        
+    
+    
+            var marker_f9c16b7fc31ba75bfd02b99081d00e15 = L.marker(
+                [18.52001645, 73.83054703],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_2f681d0476e1c6a00d6f2c4bc1589e08 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f9c16b7fc31ba75bfd02b99081d00e15.setIcon(icon_2f681d0476e1c6a00d6f2c4bc1589e08);
+        
+    
+        var popup_c2102f2a046fb1a2002b09dbc91c0259 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eab6f29913d5243f2b3b82b1d2f5c3f5 = $(`<div id="html_eab6f29913d5243f2b3b82b1d2f5c3f5" style="width: 100.0%; height: 100.0%;">German Bakery Wunderbar - Italian, German, Continental - 4.0</div>`)[0];
+                popup_c2102f2a046fb1a2002b09dbc91c0259.setContent(html_eab6f29913d5243f2b3b82b1d2f5c3f5);
+            
+        
+
+        marker_f9c16b7fc31ba75bfd02b99081d00e15.bindPopup(popup_c2102f2a046fb1a2002b09dbc91c0259)
+        ;
+
+        
+    
+    
+            var marker_e07788ff643172143ea10a98812ae12c = L.marker(
+                [18.5624502, 73.9166191],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_b92602b7b1dadfd5df0f25ffacefffba = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e07788ff643172143ea10a98812ae12c.setIcon(icon_b92602b7b1dadfd5df0f25ffacefffba);
+        
+    
+        var popup_967bca9ede1b21240334799539918abf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f7150376b76b46dd109dcdb31a45bc4a = $(`<div id="html_f7150376b76b46dd109dcdb31a45bc4a" style="width: 100.0%; height: 100.0%;">Chili's - Mexican, American, Tex-Mex - 4.5</div>`)[0];
+                popup_967bca9ede1b21240334799539918abf.setContent(html_f7150376b76b46dd109dcdb31a45bc4a);
+            
+        
+
+        marker_e07788ff643172143ea10a98812ae12c.bindPopup(popup_967bca9ede1b21240334799539918abf)
+        ;
+
+        
+    
+    
+            var marker_33e994844398c64410b8982c2c3542c0 = L.marker(
+                [18.51621575, 73.84252679],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_d954b291d50d70c7f3e46a8a8d44b529 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_33e994844398c64410b8982c2c3542c0.setIcon(icon_d954b291d50d70c7f3e46a8a8d44b529);
+        
+    
+        var popup_55cc3c7ef4563869ced7d004ca7f50c0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5045f6c9edfa7b142b71505497c0def5 = $(`<div id="html_5045f6c9edfa7b142b71505497c0def5" style="width: 100.0%; height: 100.0%;">Barbeque Nation - North Indian, Mughlai - 4.5</div>`)[0];
+                popup_55cc3c7ef4563869ced7d004ca7f50c0.setContent(html_5045f6c9edfa7b142b71505497c0def5);
+            
+        
+
+        marker_33e994844398c64410b8982c2c3542c0.bindPopup(popup_55cc3c7ef4563869ced7d004ca7f50c0)
+        ;
+
+        
+    
+    
+            var marker_b476d20468ff783975bc07f0e5811d26 = L.marker(
+                [18.63621513, 73.75108123],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_ef2bb8a61146bea5e8535612f5124224 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_b476d20468ff783975bc07f0e5811d26.setIcon(icon_ef2bb8a61146bea5e8535612f5124224);
+        
+    
+        var popup_2b65e9bdde8e62c2bc072dd9ce39affe = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6220203e317b640d6ab1d3fb0674149e = $(`<div id="html_6220203e317b640d6ab1d3fb0674149e" style="width: 100.0%; height: 100.0%;">Blue Water - North Indian, Chinese, Continental - 4.2</div>`)[0];
+                popup_2b65e9bdde8e62c2bc072dd9ce39affe.setContent(html_6220203e317b640d6ab1d3fb0674149e);
+            
+        
+
+        marker_b476d20468ff783975bc07f0e5811d26.bindPopup(popup_2b65e9bdde8e62c2bc072dd9ce39affe)
+        ;
+
+        
+    
+    
+            var marker_29a04724c9098f157e9ae8a8a2e9bc51 = L.marker(
+                [18.5367185, 73.8303275],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_29a3848e3226974f384ee2d7d1110aeb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_29a04724c9098f157e9ae8a8a2e9bc51.setIcon(icon_29a3848e3226974f384ee2d7d1110aeb);
+        
+    
+        var popup_e08d815bf901304fe1d8f49eb520da6f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9382860596dd1131c88eeccd0b9d4aa0 = $(`<div id="html_9382860596dd1131c88eeccd0b9d4aa0" style="width: 100.0%; height: 100.0%;">Agent Jack's Bar - Continental, North Indian, Italian - 4.2</div>`)[0];
+                popup_e08d815bf901304fe1d8f49eb520da6f.setContent(html_9382860596dd1131c88eeccd0b9d4aa0);
+            
+        
+
+        marker_29a04724c9098f157e9ae8a8a2e9bc51.bindPopup(popup_e08d815bf901304fe1d8f49eb520da6f)
+        ;
+
+        
+    
+    
+            var marker_3d2a65d1310d2c0783d9908793518dce = L.marker(
+                [18.5309626, 73.8289719],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_68d8681e1d920040fd1643563e626684 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3d2a65d1310d2c0783d9908793518dce.setIcon(icon_68d8681e1d920040fd1643563e626684);
+        
+    
+        var popup_4df4caf67b4be466fc88b08248b5b4a8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_aa903f10b8adcc1c4ed0a359b56b67ac = $(`<div id="html_aa903f10b8adcc1c4ed0a359b56b67ac" style="width: 100.0%; height: 100.0%;">Tales & Spirits - Italian, Continental, Cafe - 4.1</div>`)[0];
+                popup_4df4caf67b4be466fc88b08248b5b4a8.setContent(html_aa903f10b8adcc1c4ed0a359b56b67ac);
+            
+        
+
+        marker_3d2a65d1310d2c0783d9908793518dce.bindPopup(popup_4df4caf67b4be466fc88b08248b5b4a8)
+        ;
+
+        
+    
+    
+            var marker_906e7d6d60ced4cbdf4e38623823016c = L.marker(
+                [18.59348149, 73.785901],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_4ffd69508443a85efe996f4438f19857 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_906e7d6d60ced4cbdf4e38623823016c.setIcon(icon_4ffd69508443a85efe996f4438f19857);
+        
+    
+        var popup_546296f37a422961987880830779340b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_913b0feafc74329df10300ad6d970b88 = $(`<div id="html_913b0feafc74329df10300ad6d970b88" style="width: 100.0%; height: 100.0%;">18 Degrees Resto Lounge - North Indian, Mediterranean, Chinese - 3.6</div>`)[0];
+                popup_546296f37a422961987880830779340b.setContent(html_913b0feafc74329df10300ad6d970b88);
+            
+        
+
+        marker_906e7d6d60ced4cbdf4e38623823016c.bindPopup(popup_546296f37a422961987880830779340b)
+        ;
+
+        
+    
+    
+            var marker_7068fa89abb5c6cc4669be070ff22cd2 = L.marker(
+                [18.5639345, 73.9153669],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_5280d40c2337b8466b9c606a5006faab = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_7068fa89abb5c6cc4669be070ff22cd2.setIcon(icon_5280d40c2337b8466b9c606a5006faab);
+        
+    
+        var popup_9187963ac2c2024823324b65bd723ac8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cb102efbb588bbf0a3f3b33e84500f67 = $(`<div id="html_cb102efbb588bbf0a3f3b33e84500f67" style="width: 100.0%; height: 100.0%;">Apache - Finger Food - 4.1</div>`)[0];
+                popup_9187963ac2c2024823324b65bd723ac8.setContent(html_cb102efbb588bbf0a3f3b33e84500f67);
+            
+        
+
+        marker_7068fa89abb5c6cc4669be070ff22cd2.bindPopup(popup_9187963ac2c2024823324b65bd723ac8)
+        ;
+
+        
+    
+    
+            var marker_e5c8380d9eadc3fca7c882f90a49de02 = L.marker(
+                [18.5927182, 73.7735722],
+                {}
+            ).addTo(marker_cluster_5788be7163a198bb5daecbab29914be0);
+        
+    
+            var icon_5b80d903ebd490a976fbab100c14998d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e5c8380d9eadc3fca7c882f90a49de02.setIcon(icon_5b80d903ebd490a976fbab100c14998d);
+        
+    
+        var popup_cde4a0c873ed913fafbb6d2c61347aeb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_832b586e82cdaf37593353c5f14fa96a = $(`<div id="html_832b586e82cdaf37593353c5f14fa96a" style="width: 100.0%; height: 100.0%;">Barbeque Ville - North Indian - 4.4</div>`)[0];
+                popup_cde4a0c873ed913fafbb6d2c61347aeb.setContent(html_832b586e82cdaf37593353c5f14fa96a);
+            
+        
+
+        marker_e5c8380d9eadc3fca7c882f90a49de02.bindPopup(popup_cde4a0c873ed913fafbb6d2c61347aeb)
+        ;
+
+        
+    
+    
+            marker_cluster_5788be7163a198bb5daecbab29914be0.addTo(map_1b643220fcb6d69b200d7567782ff885);
+        
+</script>
+</html>

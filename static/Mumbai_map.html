@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_148b1c97692d99a1bdd1edbe88648018 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.1.0/MarkerCluster.Default.css"/>
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_148b1c97692d99a1bdd1edbe88648018" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_148b1c97692d99a1bdd1edbe88648018 = L.map(
+                "map_148b1c97692d99a1bdd1edbe88648018",
+                {
+                    center: [19.1143873445, 72.848456371],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_62fdc7ddd13f48777edeaba2087ca8cc = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_62fdc7ddd13f48777edeaba2087ca8cc.addTo(map_148b1c97692d99a1bdd1edbe88648018);
+        
+    
+            var marker_cluster_0c8ab53ab6105ee09514617087bba0cf = L.markerClusterGroup(
+                {}
+            );
+        
+    
+            var marker_f3d62f4a406fa41e1cdea70405f6de63 = L.marker(
+                [19.12663, 72.829976],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_ce219b402f60595701d272aedc957384 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_f3d62f4a406fa41e1cdea70405f6de63.setIcon(icon_ce219b402f60595701d272aedc957384);
+        
+    
+        var popup_e35d923f9812c268f8c83d6efebd9b1a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a98ce83a9fe6a101f0f7db2893dc45a8 = $(`<div id="html_a98ce83a9fe6a101f0f7db2893dc45a8" style="width: 100.0%; height: 100.0%;">Joey's Pizza - Pizza - 4.0</div>`)[0];
+                popup_e35d923f9812c268f8c83d6efebd9b1a.setContent(html_a98ce83a9fe6a101f0f7db2893dc45a8);
+            
+        
+
+        marker_f3d62f4a406fa41e1cdea70405f6de63.bindPopup(popup_e35d923f9812c268f8c83d6efebd9b1a)
+        ;
+
+        
+    
+    
+            var marker_e89696e649b88adeda4e1cd34d0f0b78 = L.marker(
+                [19.22131488, 72.86238123],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_c6f9aa76f1d9e5cd0c9449e2bf0ed679 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_e89696e649b88adeda4e1cd34d0f0b78.setIcon(icon_c6f9aa76f1d9e5cd0c9449e2bf0ed679);
+        
+    
+        var popup_12802f9d8f3c82cc5b58ab2685c0e7dd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8de1a82ee1bee295e780bc9747e84454 = $(`<div id="html_8de1a82ee1bee295e780bc9747e84454" style="width: 100.0%; height: 100.0%;">Cafe Hydro - Asian - 4.0</div>`)[0];
+                popup_12802f9d8f3c82cc5b58ab2685c0e7dd.setContent(html_8de1a82ee1bee295e780bc9747e84454);
+            
+        
+
+        marker_e89696e649b88adeda4e1cd34d0f0b78.bindPopup(popup_12802f9d8f3c82cc5b58ab2685c0e7dd)
+        ;
+
+        
+    
+    
+            var marker_665fa75a98c6dd3f3049efea668aeee4 = L.marker(
+                [19.2238399, 72.8413473],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_66e439b8ad4ef26f861c607c631377f9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_665fa75a98c6dd3f3049efea668aeee4.setIcon(icon_66e439b8ad4ef26f861c607c631377f9);
+        
+    
+        var popup_62d57478fbec6a97acbb489e8504db1b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8a0ed455efe6c4040780952d2c958b7d = $(`<div id="html_8a0ed455efe6c4040780952d2c958b7d" style="width: 100.0%; height: 100.0%;">The American Joint - Healthy Food, American, Burger, Salad - 3.4</div>`)[0];
+                popup_62d57478fbec6a97acbb489e8504db1b.setContent(html_8a0ed455efe6c4040780952d2c958b7d);
+            
+        
+
+        marker_665fa75a98c6dd3f3049efea668aeee4.bindPopup(popup_62d57478fbec6a97acbb489e8504db1b)
+        ;
+
+        
+    
+    
+            var marker_2b6172e2efea81c8dc9d9a99a2bd2b69 = L.marker(
+                [19.254567, 72.848923],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_ea578e557e4b74c6ca9f6b14c46ebd02 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_2b6172e2efea81c8dc9d9a99a2bd2b69.setIcon(icon_ea578e557e4b74c6ca9f6b14c46ebd02);
+        
+    
+        var popup_700fb407ebe5e0090a0cc90a3256d18c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2af4c7a43b5f7f48bb622ad94b860818 = $(`<div id="html_2af4c7a43b5f7f48bb622ad94b860818" style="width: 100.0%; height: 100.0%;">The Fusion Kitchen - North Indian, Italian, Chinese, Mexican - 4.7</div>`)[0];
+                popup_700fb407ebe5e0090a0cc90a3256d18c.setContent(html_2af4c7a43b5f7f48bb622ad94b860818);
+            
+        
+
+        marker_2b6172e2efea81c8dc9d9a99a2bd2b69.bindPopup(popup_700fb407ebe5e0090a0cc90a3256d18c)
+        ;
+
+        
+    
+    
+            var marker_da2fb09c1f834337692b136119105283 = L.marker(
+                [18.92758399, 72.83258457],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_abcafd38e012359374367cd97e69bfa3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_da2fb09c1f834337692b136119105283.setIcon(icon_abcafd38e012359374367cd97e69bfa3);
+        
+    
+        var popup_f1dcc4d544a6cda2a9f27797c8866e1d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4d547250ac0cce188df0b378205bf8f3 = $(`<div id="html_4d547250ac0cce188df0b378205bf8f3" style="width: 100.0%; height: 100.0%;">145 Kala Ghoda - Fast Food, Beverages, Desserts - 4.2</div>`)[0];
+                popup_f1dcc4d544a6cda2a9f27797c8866e1d.setContent(html_4d547250ac0cce188df0b378205bf8f3);
+            
+        
+
+        marker_da2fb09c1f834337692b136119105283.bindPopup(popup_f1dcc4d544a6cda2a9f27797c8866e1d)
+        ;
+
+        
+    
+    
+            var marker_87d0b84df9a37a794ffeaf844824ac59 = L.marker(
+                [19.05583064, 72.83398401],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_60a123016a3db1097e9e6b5ca5583335 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_87d0b84df9a37a794ffeaf844824ac59.setIcon(icon_60a123016a3db1097e9e6b5ca5583335);
+        
+    
+        var popup_e1771895c5cc938ca7a984f2e0db8e2b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3c0d5591b9ca965ee8f439c25b0d1a9b = $(`<div id="html_3c0d5591b9ca965ee8f439c25b0d1a9b" style="width: 100.0%; height: 100.0%;">Tea Villa Cafe - Cafe, Italian, Desserts, Fast Food, Chinese, Tea - 4.1</div>`)[0];
+                popup_e1771895c5cc938ca7a984f2e0db8e2b.setContent(html_3c0d5591b9ca965ee8f439c25b0d1a9b);
+            
+        
+
+        marker_87d0b84df9a37a794ffeaf844824ac59.bindPopup(popup_e1771895c5cc938ca7a984f2e0db8e2b)
+        ;
+
+        
+    
+    
+            var marker_0bfa823921dcbcc10f41f8b187e0409e = L.marker(
+                [19.09145752, 72.82780755],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_0848f944c8b7c6ddb1296981731c0606 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_0bfa823921dcbcc10f41f8b187e0409e.setIcon(icon_0848f944c8b7c6ddb1296981731c0606);
+        
+    
+        var popup_70857c00aa4fd4d56c6cfe9281776d8f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_175ba7ae775a770d43f0415054785ebd = $(`<div id="html_175ba7ae775a770d43f0415054785ebd" style="width: 100.0%; height: 100.0%;">Grandmama's Cafe - Continental, Italian - 3.8</div>`)[0];
+                popup_70857c00aa4fd4d56c6cfe9281776d8f.setContent(html_175ba7ae775a770d43f0415054785ebd);
+            
+        
+
+        marker_0bfa823921dcbcc10f41f8b187e0409e.bindPopup(popup_70857c00aa4fd4d56c6cfe9281776d8f)
+        ;
+
+        
+    
+    
+            var marker_3d326c7745b472e4e7ff69b209c1dec0 = L.marker(
+                [19.06583751, 72.83265799],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_209faa95e4eb25d9fd02def8a96c044c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3d326c7745b472e4e7ff69b209c1dec0.setIcon(icon_209faa95e4eb25d9fd02def8a96c044c);
+        
+    
+        var popup_b81fe17687ec7fd4302262c41d19f2d0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_55a39f98f60910bf101e2d67be36a952 = $(`<div id="html_55a39f98f60910bf101e2d67be36a952" style="width: 100.0%; height: 100.0%;">Mumbai Vibe - Cafe, Continental, North Indian, Italian, Chinese, Bakery, Desserts, Finger Food - 3.8</div>`)[0];
+                popup_b81fe17687ec7fd4302262c41d19f2d0.setContent(html_55a39f98f60910bf101e2d67be36a952);
+            
+        
+
+        marker_3d326c7745b472e4e7ff69b209c1dec0.bindPopup(popup_b81fe17687ec7fd4302262c41d19f2d0)
+        ;
+
+        
+    
+    
+            var marker_3d680d1d61a5e6c517b9ed8eb01c2147 = L.marker(
+                [18.99404899, 72.82520279],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_1a71e2e3ce0e07984d2c02fa60d7844f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3d680d1d61a5e6c517b9ed8eb01c2147.setIcon(icon_1a71e2e3ce0e07984d2c02fa60d7844f);
+        
+    
+        var popup_356aeb28ee2206f7ae36014a839c71e8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9aa40c81376c00c4dcb01676a0ac2001 = $(`<div id="html_9aa40c81376c00c4dcb01676a0ac2001" style="width: 100.0%; height: 100.0%;">The Rolling Pin - Bakery, Desserts, Cafe - 3.9</div>`)[0];
+                popup_356aeb28ee2206f7ae36014a839c71e8.setContent(html_9aa40c81376c00c4dcb01676a0ac2001);
+            
+        
+
+        marker_3d680d1d61a5e6c517b9ed8eb01c2147.bindPopup(popup_356aeb28ee2206f7ae36014a839c71e8)
+        ;
+
+        
+    
+    
+            var marker_3dab748cef473f519f08a725106d6ecd = L.marker(
+                [19.0035172, 72.82764997],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_3091e6aeaf199064022a6e2f053ac37b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3dab748cef473f519f08a725106d6ecd.setIcon(icon_3091e6aeaf199064022a6e2f053ac37b);
+        
+    
+        var popup_7319cb3f8160c3453ed685854c96a9f8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_532f1d60179a5e7a67a22c0f91e3d0c1 = $(`<div id="html_532f1d60179a5e7a67a22c0f91e3d0c1" style="width: 100.0%; height: 100.0%;">Farzi Cafe - Modern Indian - 4.3</div>`)[0];
+                popup_7319cb3f8160c3453ed685854c96a9f8.setContent(html_532f1d60179a5e7a67a22c0f91e3d0c1);
+            
+        
+
+        marker_3dab748cef473f519f08a725106d6ecd.bindPopup(popup_7319cb3f8160c3453ed685854c96a9f8)
+        ;
+
+        
+    
+    
+            var marker_6e18542201af8859e3de643e02c185f9 = L.marker(
+                [18.99423667, 72.82555282],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_b3ef37e3093ca1e9d673a6c4533be857 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_6e18542201af8859e3de643e02c185f9.setIcon(icon_b3ef37e3093ca1e9d673a6c4533be857);
+        
+    
+        var popup_b507aadc42c46c6f34c356824d820030 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_512fb580aaeea81afb85652e40e25625 = $(`<div id="html_512fb580aaeea81afb85652e40e25625" style="width: 100.0%; height: 100.0%;">SpiceKlub - North Indian - 4.2</div>`)[0];
+                popup_b507aadc42c46c6f34c356824d820030.setContent(html_512fb580aaeea81afb85652e40e25625);
+            
+        
+
+        marker_6e18542201af8859e3de643e02c185f9.bindPopup(popup_b507aadc42c46c6f34c356824d820030)
+        ;
+
+        
+    
+    
+            var marker_3aa03bc1643ee4d67e3272a43cd7a830 = L.marker(
+                [19.20722241, 72.97228105],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_b7670c708c2c99cbdbf5d3619a18765e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_3aa03bc1643ee4d67e3272a43cd7a830.setIcon(icon_b7670c708c2c99cbdbf5d3619a18765e);
+        
+    
+        var popup_41223a4c5d7577f2cf996b388e2ade12 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eeefcf29b9e9ea9c00523b730040a5c7 = $(`<div id="html_eeefcf29b9e9ea9c00523b730040a5c7" style="width: 100.0%; height: 100.0%;">Tea Villa Cafe - Cafe, Italian, Desserts, Fast Food, Chinese, Tea - 3.9</div>`)[0];
+                popup_41223a4c5d7577f2cf996b388e2ade12.setContent(html_eeefcf29b9e9ea9c00523b730040a5c7);
+            
+        
+
+        marker_3aa03bc1643ee4d67e3272a43cd7a830.bindPopup(popup_41223a4c5d7577f2cf996b388e2ade12)
+        ;
+
+        
+    
+    
+            var marker_83771efa4214d38a151758aee00efa1d = L.marker(
+                [19.178321, 72.834715],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_baa620f22dfdbb9d32161d4202661f54 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_83771efa4214d38a151758aee00efa1d.setIcon(icon_baa620f22dfdbb9d32161d4202661f54);
+        
+    
+        var popup_122fdb5d8869bdf632fc465b187ed019 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3dca70844daa61bfe2c1a278f5f4a062 = $(`<div id="html_3dca70844daa61bfe2c1a278f5f4a062" style="width: 100.0%; height: 100.0%;">Joey's Pizza - Pizza - 4.5</div>`)[0];
+                popup_122fdb5d8869bdf632fc465b187ed019.setContent(html_3dca70844daa61bfe2c1a278f5f4a062);
+            
+        
+
+        marker_83771efa4214d38a151758aee00efa1d.bindPopup(popup_122fdb5d8869bdf632fc465b187ed019)
+        ;
+
+        
+    
+    
+            var marker_50038710547fda656a912e4e48409ba7 = L.marker(
+                [19.18129965, 72.83619149],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_754d71fbebb6043c4e0aa0bcb5cb5e68 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_50038710547fda656a912e4e48409ba7.setIcon(icon_754d71fbebb6043c4e0aa0bcb5cb5e68);
+        
+    
+        var popup_efb05662148dd8c55c28130e825067b0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2fceb1247e5bb029ee51595dac91a238 = $(`<div id="html_2fceb1247e5bb029ee51595dac91a238" style="width: 100.0%; height: 100.0%;">Stacks And Racks - American, Burger, Fast Food - 4.6</div>`)[0];
+                popup_efb05662148dd8c55c28130e825067b0.setContent(html_2fceb1247e5bb029ee51595dac91a238);
+            
+        
+
+        marker_50038710547fda656a912e4e48409ba7.bindPopup(popup_efb05662148dd8c55c28130e825067b0)
+        ;
+
+        
+    
+    
+            var marker_dd822564e3dd3897d7bf363dace1057e = L.marker(
+                [19.17626869, 72.83672087],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_24cfa43e3b17b503de2e89255b153bf2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_dd822564e3dd3897d7bf363dace1057e.setIcon(icon_24cfa43e3b17b503de2e89255b153bf2);
+        
+    
+        var popup_794a979ce86c55077b2d11778c886cad = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fafc7d68c7e4525ed2667a048995814c = $(`<div id="html_fafc7d68c7e4525ed2667a048995814c" style="width: 100.0%; height: 100.0%;">The English Department Bar & Diner - Italian, Continental, Mexican, Japanese, American, British - 3.9</div>`)[0];
+                popup_794a979ce86c55077b2d11778c886cad.setContent(html_fafc7d68c7e4525ed2667a048995814c);
+            
+        
+
+        marker_dd822564e3dd3897d7bf363dace1057e.bindPopup(popup_794a979ce86c55077b2d11778c886cad)
+        ;
+
+        
+    
+    
+            var marker_628f0b6d4643ac9d643264042af2c38a = L.marker(
+                [19.12008268, 72.90738534],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_11f3129b08a1bd51f56c4b415c41a0ec = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_628f0b6d4643ac9d643264042af2c38a.setIcon(icon_11f3129b08a1bd51f56c4b415c41a0ec);
+        
+    
+        var popup_36ba4fcb2f2a9cdeee94465610085434 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_80812e34c0e0043659804684758acc82 = $(`<div id="html_80812e34c0e0043659804684758acc82" style="width: 100.0%; height: 100.0%;">Mirchi And Mime - North Indian, South Indian, Mughlai - 4.9</div>`)[0];
+                popup_36ba4fcb2f2a9cdeee94465610085434.setContent(html_80812e34c0e0043659804684758acc82);
+            
+        
+
+        marker_628f0b6d4643ac9d643264042af2c38a.bindPopup(popup_36ba4fcb2f2a9cdeee94465610085434)
+        ;
+
+        
+    
+    
+            var marker_93a8837cc7081bc6e234c2a76917b982 = L.marker(
+                [19.12199866, 72.90849264],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_02097167984754e7c47446d08a074ca4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_93a8837cc7081bc6e234c2a76917b982.setIcon(icon_02097167984754e7c47446d08a074ca4);
+        
+    
+        var popup_475fa2e94a92282332b8ae2caf11ec98 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c81698c5d1e85d773349a3c67d0462a5 = $(`<div id="html_c81698c5d1e85d773349a3c67d0462a5" style="width: 100.0%; height: 100.0%;">38 Degree East - North Indian, Chinese, Thai - 3.8</div>`)[0];
+                popup_475fa2e94a92282332b8ae2caf11ec98.setContent(html_c81698c5d1e85d773349a3c67d0462a5);
+            
+        
+
+        marker_93a8837cc7081bc6e234c2a76917b982.bindPopup(popup_475fa2e94a92282332b8ae2caf11ec98)
+        ;
+
+        
+    
+    
+            var marker_4115ba20eadf5fdf3fa2e3c977c1a025 = L.marker(
+                [19.1093, 72.825451],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_5b7dfdaea44154858170f49e995e8cf8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_4115ba20eadf5fdf3fa2e3c977c1a025.setIcon(icon_5b7dfdaea44154858170f49e995e8cf8);
+        
+    
+        var popup_f43633d1d736e5e2b588a6f881b51968 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c1735e7bfe198bfd0a9a6195ceb990e5 = $(`<div id="html_c1735e7bfe198bfd0a9a6195ceb990e5" style="width: 100.0%; height: 100.0%;">R' ADDA - Street Food, Burger, Desserts, Italian, Pizza, North Indian, European, Finger Food - 4.0</div>`)[0];
+                popup_f43633d1d736e5e2b588a6f881b51968.setContent(html_c1735e7bfe198bfd0a9a6195ceb990e5);
+            
+        
+
+        marker_4115ba20eadf5fdf3fa2e3c977c1a025.bindPopup(popup_f43633d1d736e5e2b588a6f881b51968)
+        ;
+
+        
+    
+    
+            var marker_630d66add90fcc52ebd557444673cbd6 = L.marker(
+                [19.1311405, 72.8130738],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_3d764533ef0e35cace19f8f641b79910 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_630d66add90fcc52ebd557444673cbd6.setIcon(icon_3d764533ef0e35cace19f8f641b79910);
+        
+    
+        var popup_363207bbe0ee60785af3b9b95d6dc798 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_32c19a00cb3160e5a1ef3b1ef5ddd034 = $(`<div id="html_32c19a00cb3160e5a1ef3b1ef5ddd034" style="width: 100.0%; height: 100.0%;">Tea Villa Cafe - Cafe, Italian, Desserts, Fast Food, Chinese, Tea - 4.1</div>`)[0];
+                popup_363207bbe0ee60785af3b9b95d6dc798.setContent(html_32c19a00cb3160e5a1ef3b1ef5ddd034);
+            
+        
+
+        marker_630d66add90fcc52ebd557444673cbd6.bindPopup(popup_363207bbe0ee60785af3b9b95d6dc798)
+        ;
+
+        
+    
+    
+            var marker_418d6bc1a712b2dbfd68edf601fdb9e1 = L.marker(
+                [19.103249, 72.846749],
+                {}
+            ).addTo(marker_cluster_0c8ab53ab6105ee09514617087bba0cf);
+        
+    
+            var icon_3f42be7fea978bd2b565924eb2349420 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "blue", "prefix": "glyphicon"}
+            );
+            marker_418d6bc1a712b2dbfd68edf601fdb9e1.setIcon(icon_3f42be7fea978bd2b565924eb2349420);
+        
+    
+        var popup_b3f868a203cc33b0ea8213d064f23e51 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6b199035572fe90462856128b289f948 = $(`<div id="html_6b199035572fe90462856128b289f948" style="width: 100.0%; height: 100.0%;">Tea Villa Cafe - Cafe, Italian, Desserts, Fast Food, Chinese, Tea - 3.6</div>`)[0];
+                popup_b3f868a203cc33b0ea8213d064f23e51.setContent(html_6b199035572fe90462856128b289f948);
+            
+        
+
+        marker_418d6bc1a712b2dbfd68edf601fdb9e1.bindPopup(popup_b3f868a203cc33b0ea8213d064f23e51)
+        ;
+
+        
+    
+    
+            marker_cluster_0c8ab53ab6105ee09514617087bba0cf.addTo(map_148b1c97692d99a1bdd1edbe88648018);
+        
+</script>
+</html>

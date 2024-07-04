@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ city }} - Restaurant Map
+{% endblock %}
+
+{% block content %}
+<section class="py-5">
+    <div class="container">
+        <div class="card">
+            <div class="card-body">
+                <h1 class="card-title text-center mb-4">Restaurants in {{ city }}</h1>
+                <div class="embed-responsive embed-responsive-16by9 mb-4">
+                    <iframe class="embed-responsive-item" src="{{ map_path }}" allowfullscreen></iframe>
+                </div>
+                <a href="/" class="btn btn-primary btn-block">Back to Search</a>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

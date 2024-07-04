@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>Dashboard</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/dashboard">Dashboard</a>
+            <a href="/map">Map</a>
+        </nav>
+    </header>
+    <main>
+        <section class="dashboard">
+            <h1>Restaurant Data Dashboard</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Restaurant Name</th>
+                        <th>City</th>
+                        <th>Cuisines</th>
+                        <th>Average Cost for Two</th>
+                        <th>Rating</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for restaurant in data %}
+                    <tr>
+                        <td>{{ restaurant['Restaurant Name'] }}</td>
+                        <td>{{ restaurant['City'] }}</td>
+                        <td>{{ restaurant['Cuisines'] }}</td>
+                        <td>{{ restaurant['Average Cost for two'] }}</td>
+                        <td>{{ restaurant['Aggregate rating'] }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Restaurant Analysis. All rights reserved.</p>
+    </footer>
+</body>
+</html>

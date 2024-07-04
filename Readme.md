@@ -110,6 +110,12 @@ Follow these steps to set up the project locally:
 
 restaurents prediction using various ML algorithms
 
+## Usage:
+
+1.) It can be used to achive the solutions in small segements of the ecoomerece sites where they find things difficult to track 
+
+2.) It can also be used in hilly areas if implemented propely with the proper software base to track near by locations 
+
  
 ## Contributing:
 

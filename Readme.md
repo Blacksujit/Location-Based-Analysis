@@ -26,7 +26,7 @@ restaurant-location-analysis/
 ├── static/
 │   ├── css/
 │   │   ├── styles.css
-│   │   ├── other css if yu have add 
+│   │   ├── other css if yu have to add 
 │   │   └── ...
 │   ├── js/
 │   │   ├── script.js

@@ -47,11 +47,15 @@ restaurant-location-analysis/
 
 ```
 
+
+
+
 ## Project Frontend:
 
 ## Video Link:
 
-<video controls src="Recording 2024-07-04 193748.mp4" title="Title"></video>
+https://github.com/Blacksujit/Location_Based_Analysis/assets/148805811/205809a7-e382-47fc-8eb1-de2747c74b64
+
 
 ## Home Page (User interactiveness):
 

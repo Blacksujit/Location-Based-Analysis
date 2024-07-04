@@ -54,7 +54,7 @@ restaurant-location-analysis/
 
 ## Video Link:
 
-https://github.com/Blacksujit/Location_Based_Analysis/assets/148805811/205809a7-e382-47fc-8eb1-de2747c74b64
+https://github.com/Blacksujit/Location_Based_Analysis/assets/148805811/a8b3d6d3-96a1-41fe-b346-acd301857e99
 
 
 ## Home Page (User interactiveness):

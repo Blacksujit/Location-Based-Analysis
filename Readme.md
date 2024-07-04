@@ -90,7 +90,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone  https://github.com/Blacksujit/Location_Based_Analysis.git
    cd restaurant-location-analysis
 
 

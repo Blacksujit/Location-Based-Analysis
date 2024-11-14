@@ -1,4 +1,4 @@
-# Restaurant Location-Based Analysis by Machine Learning
+# Restaurant Location-Based Analysis 
 
 This project aims to perform restaurant location-based analysis using machine learning techniques. It involves predicting restaurant ratings based on user inputs and displaying restaurant locations on a map.
 
